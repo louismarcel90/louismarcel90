@@ -1,56 +1,93 @@
-<a href="#"><img width="11%" height="auto" src="astro.png" height="75px"/></a>
+# Louis-Marcel Bonga
 
-<h1 align="center">I'm Louis-Marcel</h1>
-<h3 align="center">A Full Stack Developer</h3>
+**Full-Stack Developer |  Javascript • React • Node.js • Cloud-Ready Web Applications**
 
-<br>
-<br>
+I design and build scalable, user-centric web applications using modern frontend frameworks and reliable backend architectures.  
+Experienced in delivering clean, maintainable code for real-world use cases.
 
+---
 
-## 🙋‍♂️ About Me
+## 👋 About Me
 
-- 🔭 Working on **[King's Closet](https://github.com/didierbonga90/Kings-Closet)**
+- Full-stack developer with experience building **end-to-end web applications**
+- Strong focus on **code quality, performance, and best practices**
+- Comfortable working across **frontend, backend, and deployment workflows**
+- Open to **remote roles** and **international opportunities (US, UK, EU)**
 
-- <img width="2.3%" height="auto" src="arduino.png" height="70px"/></a> Learning **[Arduino](https://www.arduino.cc/)** 
+---
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://didierbonga.com)**
+## 🚀 Featured Projects
 
-- 📫 Reach me at **didierbonga.a@gmail.com**
+### 🛍️ King’s Closet — E-commerce Platform
+**Tech:** React, Node.js, Express, MongoDB, Stripe  
+- Full e-commerce workflow (authentication, product management, cart, checkout)
+- Secure REST API and payment integration
+- Designed with scalability and maintainability in mind
 
-<br>
-<br>
+🔗 Repository | 🔗 Live Demo
 
-## 🚀 Languages and Tools:
+---
 
-<p align="left">
-            <a href="https://go.dev/" target="_blank"> <img src="golang.png"/> </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
-    </a>    
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-            <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg' width="48" height="48">
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>   
-            <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg' width="48" height="48">
-        <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-            <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg' width="48" height="48">
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-            <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg' width="48" height="48">
-    <a href="https://git-scm.com/" target="_blank"> <img src="git.png"/> </a>   
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg' width="48" height="48">
-</p>
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+### 🤖 AI Chat Application
+**Tech:** Next.js, OpenAI API, WebSockets  
+- Real-time chat interface with AI-powered responses
+- Optimized for performance and smooth user experience
+- Modular, component-driven frontend architecture
 
+🔗 Repository | 🔗 Live Demo
 
+---
 
+## 🧰 Tech Stack
 
+### Frontend 
+ - React, Next.js
+- TypeScript, JavaScript (ES6+)
+- Tailwind CSS, HTML5, CSS3
+- Responsive & Accessible UI (a11y)
 
-<br/>
-<br/>
+### Backend
+- Node.js (NestJS, Express.js)
+- TypeScript
+- API Design: REST (OpenAPI/Swagger)
+- Auth: JWT, OAuth2 (basics)
+- Validation: Zod 
 
-## Connect with me:
-<p align="left">
+### Databases
+- PostgreSQL (primary relational database)
+- MongoDB (NoSQL document store)
+- Redis (caching, sessions)
 
-<a href = "https://www.linkedin.com/in/akpale-didier-bonga-763904184/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-</p>
+### Tools & DevOps
+- Git & GitHub
+- Docker
+- CI/CD (GitHub Actions)
+- Linux / Bash
+- Cloud deployment (AWS / Vercel / Render)
 
+### Testing
+- Jest ( unit & integration testing)
+- React Testing Library
+- Postman (API testing)
+
+### AI / Automation
+- OpenAI API
+- Prompt engineering basics
+- AI-powered features integration
+
+---
+
+## 📊 Development Approach
+
+- Clean and readable code
+- RESTful API design
+- Responsive and accessible UI
+- Agile and iterative development mindset
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/akpale-didier-bonga-763904184)
+- 🌐 Portfolio: https://your-portfolio-link
+- ✉️ Email: didierbonga.a@gmail.com
