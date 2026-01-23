@@ -18,8 +18,9 @@ Experienced in delivering clean, maintainable code for real-world use cases.
 
 ## 🚀 Featured Projects
 
-### 🛍️ King’s Closet — E-commerce Platform
+### 🛍️ Gatekeeper — Zero-Trust API Gateway & Management Platform
 **Tech:** React, Node.js, Express, MongoDB, Stripe  
+
 - Full e-commerce workflow (authentication, product management, cart, checkout)
 - Secure REST API and payment integration
 - Designed with scalability and maintainability in mind
@@ -28,7 +29,7 @@ Experienced in delivering clean, maintainable code for real-world use cases.
 
 ---
 
-### 🤖 AI Chat Application
+### 🤖 Project2 — AI Chat Application
 **Tech:** Next.js, OpenAI API, WebSockets  
 - Real-time chat interface with AI-powered responses
 - Optimized for performance and smooth user experience
@@ -88,6 +89,6 @@ Experienced in delivering clean, maintainable code for real-world use cases.
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/akpale-didier-bonga-763904184)
-- 🌐 Portfolio: https://your-portfolio-link
+- 💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/louis-marcel-bonga-763904184)
+- 🌐 Portfolio: https://my-portfolio-link-to-paste
 - ✉️ Email: didierbonga.a@gmail.com
