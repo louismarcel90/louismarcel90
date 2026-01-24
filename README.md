@@ -2,7 +2,7 @@
 
 **Software Engineer | Architecture • TypeScript • Distributed Web Systems**
 
-I design, scale, and own production-grade web systems.
+Designing and owning scalable production systems.
 
 I focus on architecture, system boundaries, and technical decisions that drive long-term reliability, performance, and product impact.
 
