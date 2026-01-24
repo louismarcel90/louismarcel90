@@ -1,19 +1,21 @@
 # Louis-Marcel Bonga
 
-**Full-Stack Developer |  Typescript • React • Node.js • Cloud-Ready Web Applications**
+**Software Engineer | Architecture • TypeScript • Distributed Web Systems**
 
 I design and build scalable, user-centric web applications using modern frontend frameworks and reliable backend architectures.  
 Experienced in delivering clean, maintainable code for real-world use cases.
 
 ---
+---
 
 ## 👋 About Me
 
-- Full-stack developer with experience building **end-to-end web applications**
-- Strong focus on **code quality, performance, and best practices**
-- Comfortable working across **frontend, backend, and deployment workflows**
-- Open to **remote roles** and **international opportunities (US, UK, EU)**
+- Own technical direction and system architecture for scalable, production-grade web platforms
+- Drive engineering excellence through design reviews, standards, and mentorship
+- Partner with product and leadership to translate business goals into durable technical solutions
 
+🌍 Remote & international (US, UK, EU)
+---
 ---
 
 ## 🚀 Featured Projects
@@ -30,46 +32,28 @@ This project demonstrates the design of a **modern API Gateway**, focused on **s
 Node.js · TypeScript · NestJS · PostgreSQL · Redis · React · Docker
 
 **🧠 What This Project Demonstrates**
-- Design of a **production-style API Gateway**
-- Secure API access using **API Keys, JWT, and scopes**
-- Scalable **rate limiting and quota enforcement**
-- End-to-end **full-stack architecture** (backend, frontend, data, infra)
-- Real-world trade-offs around **security, performance, and observability**
+- System design of a **Zero-Trust API gateway**
+- Trade-offs in **security, performance, and observability**
+- End-to-end ownership of a **production-style platform**
 
 **🧩 Problems Gatekeeper Solves**
-- APIs exposed without proper access control or governance
-- Abuse, bots, and uncontrolled traffic spikes
-- Lack of visibility into who is using the API and how
-- Missing audit trails for security and compliance
-- Manual or error-prone client and key management
+- API exposure without consistent governance
+- Abuse, bots, and uncontrolled traffic
+- Limited visibility into API usage and risk
 
 **⚙️ Core Capabilities**
-- Acts as a **secure gateway** in front of backend services
-- Enforces **Zero-Trust principles** on every request
-- Controls API usage with **client-based quotas**
-- Provides **auditability and usage analytics**
-- Centralizes API governance through an admin console
+- Centralized access control at the gateway level
+- Deterministic rate limiting and quota enforcement
+- Auditable, observable API traffic
 
-**✨ Key Features**
-- Secure API Gateway (API Keys + JWT)
-- Rate limiting per client, route, and plan
-- Client and API key lifecycle management
-- Structured audit logs and request tracing
-- Usage analytics and performance metrics
-- Admin Console built with React
-- Zero-Trust, security-first architecture
+**✨ Key Engineering Features**
+- Secure API access using API keys and JWT with scoped authorization
+- Deterministic traffic control via per-client and per-route rate limiting
+- Full operational visibility through audit logs, metrics, and an admin control plane
 
 **🎯 Why This Project Matters**
-APIs are now the **primary attack surface** and the backbone of modern applications.  
-Companies need more than just exposed endpoints — they need **control, visibility, and protection**.
-
-**Gatekeeper** reflects real-world engineering challenges faced by modern teams:
-- protecting APIs at scale
-- preventing abuse without breaking legitimate traffic
-- maintaining observability and accountability
-- building systems that are secure by default
-
-This project is built to mirror how **production-grade API platforms** are designed and operated today.
+APIs are a company’s **primary integration surface and attack vector**.
+Gatekeeper mirrors how **modern engineering teams design, secure, and operate API platforms at scale**.
 
 ⬇️ **See the repository and Live Demo for full technical details below**
 
@@ -85,65 +69,37 @@ This project is built to mirror how **production-grade API platforms** are desig
 It focuses on **governance, scalability, and compliance**, not AI “demo features”.
 
 **🛠 Tech Stack**
-**Frontend**
-- Next.js (App Router)
-- TypeScript
-- React Query
-
-**Backend**
-- NestJS
-- PostgreSQL (Prisma)
-- Redis
-- OpenAI API
-
-**Platform**
-- Docker & Docker Compose
-- GitHub Actions (CI)
-- Monorepo (contracts-first)
+Next.js · NestJS · TypeScript · PostgreSQL · Redis · OpenAI · Docker
 
 **🧠 What This Project Demonstrates**
-- Designing an **enterprise-grade SaaS architecture**
-- Embedding **OpenAI responsibly** with strict governance
-- Applying **Senior / Staff-level engineering practices**
-- Delivering value through **vertical slices**, not isolated features
-- Balancing **AI capabilities with security, auditability, and cost control**
-
+- Staff-level system design driven by risk and trade-offs
+- Safe, governed AI integration with validation and auditability
+- End-to-end delivery via vertical slices with clear Definition of Done
 
 **🧩 Problems OpsPilot AI Solves**
-- Manual and error-prone operational workflows
-- Unsafe or uncontrolled AI integrations
-- Lack of visibility and auditability in automation
-- Poor internal tooling not designed for scale
-- Security risks when exposing AI to sensitive data
+- Uncontrolled AI usage in sensitive enterprise workflows
+- Lack of authorization, isolation, and audit trails in automation
+- Operational risk caused by manual or ad-hoc internal tooling
 
 **⚙️ Core Capabilities**
-- Secure, stateless authentication
-- Fine-grained authorization and permission control
-- Workflow automation with deterministic execution
-- AI-assisted task drafting and classification
-- Full audit trail for both human and AI actions
+- Stateless authentication with fine-grained RBAC
+- Deterministic workflows enhanced by AI-assisted steps
+- Immutable audit logging for human and AI-driven actions
 
-**✨ Key Features**
-- **Secure Authentication** — JWT-based auth with OAuth2-ready architecture  
-- **Role-Based Access Control (RBAC)** — permissions enforced at API and domain levels  
-- **Controlled OpenAI Integration** — guardrails, validation, and scoped prompts  
-- **Audit-Ready by Design** — immutable logs for critical operations and AI calls  
-- **Redis Caching** — performance optimization for critical endpoints  
-- **Strict Validation** — shared Zod contracts across backend and frontend  
+**✨ Key Engineering Features**
+- Explicit permission gating for AI access
+- Shared Zod-based contracts across frontend and backend
+- Production-grade logging, health checks, and CI enforcement
 
 **🎯 Why This Project Matters**
-Most AI projects showcase *what AI can do*.  
-**OpsPilot AI showcases how AI should be shipped in production.**
-It reflects:
-- Enterprise security expectations
-- Real-world scalability concerns
-- Compliance and audit requirements
-- Thoughtful AI governance over raw capability
+Most AI projects optimize for *capability*.
+**OpsPilot AI optimizes for safety, clarity, and long-term maintainability.**
 
 ⬇️ **See the repository and Live Demo for full technical details below**
 
 🔗 Repository | 🔗 Live Demo
 
+---
 ---
 
 ## 🧰 Tech Stack
