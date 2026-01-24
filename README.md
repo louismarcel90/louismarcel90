@@ -2,10 +2,10 @@
 
 **Software Engineer | Architecture • TypeScript • Distributed Web Systems**
 
-I design and build scalable, user-centric web applications using modern frontend frameworks and reliable backend architectures.  
-Experienced in delivering clean, maintainable code for real-world use cases.
+I design, scale, and own production-grade web systems.
 
----
+I focus on architecture, system boundaries, and technical decisions that drive long-term reliability, performance, and product impact.
+
 ---
 
 ## 👋 About Me
@@ -15,7 +15,7 @@ Experienced in delivering clean, maintainable code for real-world use cases.
 - Partner with product and leadership to translate business goals into durable technical solutions
 
 🌍 Remote & international (US, UK, EU)
----
+
 ---
 
 ## 🚀 Featured Projects
@@ -100,53 +100,24 @@ Most AI projects optimize for *capability*.
 🔗 Repository | 🔗 Live Demo
 
 ---
----
 
 ## 🧰 Tech Stack
 
-### Frontend 
-- React, Next.js
-- TypeScript, JavaScript (ES6+)
-- Tailwind CSS, HTML5, CSS3
-- Responsive & Accessible UI (a11y)
-
-### Backend
-- Node.js (NestJS, Express.js)
-- TypeScript
-- API Design: REST (OpenAPI/Swagger)
-- Auth: JWT, OAuth2 (basics)
-- Validation: Zod 
-
-### Databases
-- PostgreSQL (primary relational database)
-- MongoDB (NoSQL document store)
-- Redis (caching, sessions)
-
-### Tools & DevOps
-- Git & GitHub
-- Docker
-- CI/CD (GitHub Actions)
-- Linux / Bash
-- Cloud deployment (AWS / Vercel / Render)
-
-### Testing
-- Jest ( unit & integration testing)
-- React Testing Library
-- Postman (API testing)
-
-### AI / Automation
-- OpenAI API
-- Prompt engineering basics
-- AI-powered features integration
+- End-to-end web systems (React / Next.js, Node.js)
+- Backend & API architecture (REST, Auth, Validation)
+- Data modeling & performance (PostgreSQL, Redis, MongoDB)
+- Production delivery (Docker, CI/CD, Cloud platforms)
+- Testing strategies & system reliability
+- AI-powered features (OpenAI APIs)
 
 ---
 
 ## 📊 Development Approach
 
-- Clean and readable code
-- RESTful API design
-- Responsive and accessible UI
-- Agile and iterative development mindset
+- Architecture-first, system-oriented development
+- APIs as long-lived contracts, not implementation details
+- Reliability, performance, and maintainability by design
+- Iteration driven by impact and technical trade-offs
 
 ---
 
