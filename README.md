@@ -57,8 +57,8 @@ Node.js · TypeScript · NestJS · PostgreSQL · Redis · React · Docker
 
 **📈 Why This Project Matters**
 
-APIs are a company’s **primary integration surface and attack vector**.
-Gatekeeper mirrors how **modern engineering teams design, secure, and operate API platforms at scale**.
+APIs are a company’s primary integration surface and attack vector.
+Gatekeeper mirrors how modern engineering teams design, secure, and operate API platforms at scale.
 
 ⬇️ **See the repository and Live Demo for full technical details below**
 
@@ -105,7 +105,7 @@ Next.js · NestJS · TypeScript · PostgreSQL · Redis · OpenAI · Docker
 **📈 Why This Project Matters**
 
 Most AI projects optimize for *capability*.
-**OpsPilot AI optimizes for safety, clarity, and long-term maintainability.**
+OpsPilot AI optimizes for safety, clarity, and long-term maintainability.
 
 ⬇️ **See the repository and Live Demo for full technical details below**
 
