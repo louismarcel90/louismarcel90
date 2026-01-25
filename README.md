@@ -18,7 +18,7 @@ I operate at the intersection of systems, people, and product to build web platf
 
 ## 🧩 Selected Work
 
-### ⚙️ Gatekeeper  
+### 📌 Gatekeeper  
 ### Zero-Trust API Gateway & Management Platform
 
 **Gatekeeper** is a full-stack **API security and governance platform** built to address today’s most urgent enterprise needs:  
