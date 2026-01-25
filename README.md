@@ -1,8 +1,6 @@
-# Louis Marcel BONGA
+# Software Engineer | Architecture • TypeScript • Distributed Web Systems
 
-**Software Engineer | Architecture • TypeScript • Distributed Web Systems**
-
-Designing and owning scalable production systems.
+**Designing and owning scalable production systems**
 
 I focus on architecture, system boundaries, and technical decisions that drive long-term reliability, performance, and product impact.
 
