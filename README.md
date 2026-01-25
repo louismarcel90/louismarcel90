@@ -1,4 +1,4 @@
-# Software Engineer | Architecture • TypeScript • Distributed Web Systems
+## Software Engineer | Architecture • TypeScript • Distributed Web Systems
 
 **Designing and owning scalable production systems**
 
