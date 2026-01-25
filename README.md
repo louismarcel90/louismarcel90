@@ -1,4 +1,4 @@
-# Louis Marcel Bonga
+# Louis Marcel BONGA
 
 **Software Engineer | Architecture • TypeScript • Distributed Web Systems**
 
