@@ -28,13 +28,14 @@ This project demonstrates the design of a **modern API Gateway**, focused on **s
 
 
 **🧠 Technologies Used in Practice**
+
 Node.js · TypeScript · NestJS · PostgreSQL · Redis · React · Docker
 
 
 **🔍 What This Project Demonstrates**
-- System design of a **Zero-Trust API gateway**
-- Trade-offs in **security, performance, and observability**
-- End-to-end ownership of a **production-style platform**
+- System design of a Zero-Trust API gateway
+- Trade-offs in security, performance, and observability
+- End-to-end ownership of a production-style platform
   
 
 **🚧 Problems Gatekeeper Solves**
@@ -75,13 +76,14 @@ It focuses on **governance, scalability, and compliance**, not AI “demo featur
 
 
 **🧠 Technologies Used in Practice**
+
 Next.js · NestJS · TypeScript · PostgreSQL · Redis · OpenAI · Docker
 
 
 **🔍 What This Project Demonstrates**
-- Staff-level system design driven by risk and trade-offs
-- Safe, governed AI integration with validation and auditability
-- End-to-end delivery via vertical slices with clear Definition of Done
+- System design shaped by explicit risk assessment, constraints, and long-term trade-offs
+- Governed AI integration with validation, observability, and auditability built in
+- End-to-end ownership through vertical slices, with a clear and enforceable Definition of Done
 
 
 **🚧 Problems OpsPilot AI Solves**
@@ -104,7 +106,7 @@ Next.js · NestJS · TypeScript · PostgreSQL · Redis · OpenAI · Docker
 
 **📈 Why This Project Matters**
 
-Most AI projects optimize for *capability*.
+Most AI projects optimize for capability.
 OpsPilot AI optimizes for safety, clarity, and long-term maintainability.
 
 ⬇️ **See the repository and Live Demo for full technical details below**
