@@ -19,6 +19,50 @@ I operate at the intersection of systems, people, and product to build web platf
 
 ## 🧩 Selected Work
 
+### 📌 FlowDesk 
+### Decision Intelligence & Governance Platform
+
+FlowDesk is a full-stack decision governance platform that systematically captures, structures, audits, and evolves high-impact decisions.
+It institutionalizes decision traceability across organizations, mitigating knowledge loss, misalignment, and the recurrence of costly mistakes.
+
+**🧠 Technologies Used in Practice**
+
+Node.js · TypeScript · NestJS · PostgreSQL · Redis · React · Docker
+
+**🔍 What This Project Demonstrates**
+- System-level thinking: decisions modeled as first-class domain entities rather than unstructured documents
+- Architectural leadership: intentional trade-offs between delivery speed, scalability, and long-term evolvability
+- Product & governance mindset: security, ownership, UX, and feedback loops designed in from day one
+
+
+**🚧 Problems OpsPilot AI Solves**
+- Decision loss & knowledge decay: critical technical and business decisions are scattered across docs, chats, and meetings, making rationale and accountability effectively unrecoverable over time.
+- Untracked trade-offs: teams commit to architectural and product choices without durable visibility into alternatives considered, risks accepted, or assumptions made.
+- Organisational misalignment at scale: as teams grow, decisions drift from original intent, causing rework, duplicated effort, and repeated mistakes.
+
+
+**🧱 Core Capabilities**
+- Structured decision lifecycle management: first-class modelling of decisions with explicit context, options, trade-offs, ownership, status, and outcomes.
+- Decision-to-impact traceability: direct linkage between decisions, initiatives, and measurable business or technical metrics over time.
+- Collaborative governance: role-based access, comments, change history, and auditability to support cross-team alignment and accountability.
+
+
+**⚙️ Key Engineering Features**
+- Intentional architecture & boundaries: modular monolith design with clearly defined domains, optimised for rapid delivery while remaining evolvable under growth.
+- Security and governance by default: RBAC, ownership enforcement, audit logs, and schema validation embedded at the API layer, not bolted on.
+- Operational and delivery maturity: CI/CD pipelines, multi-environment deployments, observability, rollback strategies, and production-ready reliability practices.
+
+
+**📈 Why This Project Matters**
+FlowDesk treats decisions as long-lived system artifacts, capturing organisational reasoning rather than letting it decay into tribal knowledge.
+It reflects the ability to balance technical rigor, human workflows, and business impact.
+
+⬇️ **See the repository and Live Demo for full technical details below**
+
+📦 Repository | ▶️ Live Demo
+
+---
+
 ### 📌 Gatekeeper  
 ### Zero-Trust API Gateway & Management Platform
 
