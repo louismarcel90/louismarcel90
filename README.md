@@ -30,8 +30,7 @@ I operate at the intersection of **systems, people, and product** to deliver pla
 
 The projects below reflect how I approach system design: from organizational decision-making, to platform foundations, to AI-driven internal tooling.
 
-### 📌 FlowDesk 
-### Decision Intelligence & Governance Platform
+### 📌 FlowDesk ( Decision Intelligence & Governance Platform )
 
 FlowDesk is a full-stack decision governance platform that systematically captures, structures, audits, and evolves high-impact decisions.
 It institutionalizes decision traceability across organizations, mitigating knowledge loss, misalignment, and the recurrence of costly mistakes.
@@ -80,8 +79,7 @@ FlowDesk reflects the ability to balance technical rigor, human workflows, and b
 
 ---
 
-### 📌 Gatekeeper  
-### Zero-Trust API Gateway & Management Platform
+### 📌 Gatekeeper ( Zero-Trust API Gateway & Management Platform )
 
 **Gatekeeper** is a full-stack API security and governance platform built to address today’s most urgent enterprise needs :  
 access control, rate limiting, auditability, analytics, and abuse prevention.
@@ -136,8 +134,7 @@ for **regulated, security-conscious, and fast-growing organizations**.
 
 ---
 
-### 📌 OpsPilot AI 
-### Enterprise-Grade AI SaaS Platform
+### 📌 OpsPilot AI ( Enterprise-Grade AI SaaS Platform )
 
 **OpsPilot AI** is a secure, audit-ready SaaS platform designed to demonstrate how AI can be safely embedded into enterprise operations.
 
