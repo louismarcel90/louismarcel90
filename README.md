@@ -1,23 +1,34 @@
-## Software Engineer | Architecture • TypeScript • Distributed Web Systems
+## Software Engineer | Architecture • TypeScript • Distributed Systems
 
-**Designing and owning scalable production systems**
+I design, build, and own **production-grade platforms** focused on **security, governance, and long-term system reliability**.
 
-I focus on architecture, system boundaries, and technical decisions that drive long-term reliability, performance, and product impact.
+🌍 Remote & international (US, UK, EU)
+
+--- 
+
+### TL;DR
+I build systems that help organizations **make better decisions at scale**, by treating architecture, security, and governance as **first-class engineering problems**.
 
 ---
 
 ## 🎯 Engineering Impact
 
-I operate at the intersection of systems, people, and product to build web platforms that scale reliably over time.
+I operate at the intersection of **systems, people, and product** to deliver platforms that scale reliably over time.
 
-- Set and evolve technical direction for production-grade systems, focusing on architecture, resilience, and long-term maintainability
-- Multiply engineering impact through design reviews, standards, mentorship, and close partnership with product and leadership
-  
-🌍 Remote & international (US, UK, EU)
+- Set technical direction for **production-grade systems** with long-lived APIs and clear domain boundaries
+- Drive architectural decisions balancing **delivery speed, scalability, and evolvability**
+- Multiply impact through design reviews, standards, and mentorship
+
+**What teams get:**
+- Fewer regressions and architectural drift
+- Better decision traceability and accountability
+- Systems that scale with both traffic *and* organization size
 
 ---
 
 ## 🧩 Selected Work
+
+The projects below reflect how I approach system design: from organizational decision-making, to platform foundations, to AI-driven internal tooling.
 
 ### 📌 FlowDesk 
 ### Decision Intelligence & Governance Platform
@@ -45,6 +56,12 @@ Node.js · TypeScript · NestJS · PostgreSQL · Redis · React · Docker
 - Structured decision lifecycle : decisions modeled with clear context, options, trade-offs, ownership, and outcomes.
 - Decision-to-impact traceability : link decisions to initiatives and measurable business or technical metrics over time.
 - Collaborative governance : RBAC, comments, change history, and audit trails for alignment and accountability.
+
+
+**📈 Scale & Constraints**
+- Designed for multi-team decision workflows, where clarity and traceability matter more than raw throughput
+- Optimized for long-lived data integrity, auditability, and historical reasoning over time
+- Architecture prioritizes organizational scalability (ownership, accountability, governance) over short-term feature velocity
 
 
 **⚙️ Key Engineering Features**
@@ -93,7 +110,13 @@ Node.js · TypeScript · NestJS · PostgreSQL · Redis · React · Docker
 - Centralized access control at the gateway level
 - Deterministic rate limiting and quota enforcement
 - Auditable, observable API traffic
-  
+
+
+**📈 Scale & Constraints**
+- Built as a shared control plane enforcing access policies across multiple services
+- Optimized for predictable latency and deterministic behavior under load
+- Security, isolation, and observability are treated as non-negotiable constraints
+
 
 **⚙️ Key Engineering Features**
 - Secure API access using API keys and JWT with scoped authorization
@@ -104,7 +127,8 @@ Node.js · TypeScript · NestJS · PostgreSQL · Redis · React · Docker
 **📈 Why This Project Matters**
 
 APIs are a company’s primary integration surface and attack vector.
-Gatekeeper mirrors how modern engineering teams design, secure, and operate API platforms at scale.
+Gatekeeper mirrors how modern platform teams design internal infrastructure
+for **regulated, security-conscious, and fast-growing organizations**.
 
 ⬇️ **See the repository and Live Demo for full technical details below**
 
@@ -141,7 +165,13 @@ Next.js · NestJS · TypeScript · PostgreSQL · Redis · OpenAI · Docker
 - Stateless authentication with fine-grained RBAC
 - Deterministic workflows enhanced by AI-assisted steps
 - Immutable audit logging for human and AI-driven actions
-  
+
+
+**📈 Scale & Constraints**
+- Designed for enterprise internal tooling where misuse and ambiguity carry real operational risk
+- AI capabilities constrained by explicit permissions, guardrails, and audit trails
+- Optimized for safety, trust, and explainability over experimentation or hype
+
 
 **⚙️ Key Engineering Features**
 - Explicit permission gating for AI access
@@ -171,16 +201,18 @@ OpsPilot AI optimizes for safety, clarity, and long-term maintainability.
 
 ---
 
-## 🧭 Development Approach
+## 🧭 How I Think as an Engineer
 
-- Architecture-first, system-oriented development
-- APIs as long-lived contracts, not implementation details
-- Reliability, performance, and maintainability by design
-- Iteration driven by impact and technical trade-offs
+- Architecture is a **product decision**
+System boundaries and APIs shape scale, velocity, and long-term cost.
+- Security, governance, and observability are **first-class features**
+Ownership and auditability are designed in, not added later.
+- I optimize for **long-term leverage**
+Code changes. Architectural decisions compound.
 
 ---
 
-## ✉️ Contact
+## 📬 Contact
 
 - 🧾 LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/louis-marcel-bonga-763904184)
 - 📨 Email: didierbonga.a@gmail.com
