@@ -36,26 +36,26 @@ Node.js · TypeScript · NestJS · PostgreSQL · Redis · React · Docker
 
 
 **🚧 Problems OpsPilot AI Solves**
-- Decision loss & knowledge decay: critical technical and business decisions are scattered across docs, chats, and meetings, making rationale and accountability effectively unrecoverable over time.
-- Untracked trade-offs: teams commit to architectural and product choices without durable visibility into alternatives considered, risks accepted, or assumptions made.
-- Organisational misalignment at scale: as teams grow, decisions drift from original intent, causing rework, duplicated effort, and repeated mistakes.
+- Decision loss & knowledge decay: fragmented decisions lose rationale and accountability.
+- Untracked trade-offs: choices are made without lasting visibility into alternatives, risks, or assumptions.
+- Organisational misalignment at scale: growth causes decision drift, leading to rework and repeated mistakes.
 
 
 **🧱 Core Capabilities**
-- Structured decision lifecycle management: first-class modelling of decisions with explicit context, options, trade-offs, ownership, status, and outcomes.
-- Decision-to-impact traceability: direct linkage between decisions, initiatives, and measurable business or technical metrics over time.
-- Collaborative governance: role-based access, comments, change history, and auditability to support cross-team alignment and accountability.
+- Structured decision lifecycle: decisions modeled with clear context, options, trade-offs, ownership, and outcomes.
+- Decision-to-impact traceability: link decisions to initiatives and measurable business or technical metrics over time.
+- Collaborative governance: RBAC, comments, change history, and audit trails for alignment and accountability.
 
 
 **⚙️ Key Engineering Features**
-- Intentional architecture & boundaries: modular monolith design with clearly defined domains, optimised for rapid delivery while remaining evolvable under growth.
-- Security and governance by default: RBAC, ownership enforcement, audit logs, and schema validation embedded at the API layer, not bolted on.
-- Operational and delivery maturity: CI/CD pipelines, multi-environment deployments, observability, rollback strategies, and production-ready reliability practices.
+- Intentional architecture & boundaries: modular monolith with clear domains, optimized for speed and long-term evolution.
+- Security and governance by default: RBAC, ownership, audit logs, and schema validation built into the API layer.
+- Operational and delivery maturity: CI/CD, multi-environment deployments, observability, and safe rollback practices.
 
 
 **📈 Why This Project Matters**
-FlowDesk treats decisions as long-lived system artifacts, capturing organisational reasoning rather than letting it decay into tribal knowledge.
-It reflects the ability to balance technical rigor, human workflows, and business impact.
+Treat decisions as long-lived system artifacts, capturing organisational reasoning rather than letting it decay into tribal knowledge is a must.
+FlowDesk reflects the ability to balance technical rigor, human workflows, and business impact.
 
 ⬇️ **See the repository and Live Demo for full technical details below**
 
