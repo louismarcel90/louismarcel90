@@ -211,5 +211,5 @@ Code changes. Architectural decisions compound.
 
 ## 📬 Contact
 
-- 🧾 LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/louis-marcel-bonga-763904184)
+- 🧾 LinkedIn: [https://linkedin.com/in/https://www.linkedin.com/in/louis-marcel-bonga-763904184
 - 📨 Email: didierbonga.a@gmail.com
