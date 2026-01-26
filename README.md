@@ -12,6 +12,7 @@ I operate at the intersection of systems, people, and product to build web platf
 
 - Set and evolve technical direction for production-grade systems, focusing on architecture, resilience, and long-term maintainability
 - Multiply engineering impact through design reviews, standards, mentorship, and close partnership with product and leadership
+  
 🌍 Remote & international (US, UK, EU)
 
 ---
