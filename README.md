@@ -30,27 +30,27 @@ It institutionalizes decision traceability across organizations, mitigating know
 Node.js · TypeScript · NestJS · PostgreSQL · Redis · React · Docker
 
 **🔍 What This Project Demonstrates**
-- System-level thinking: decisions modeled as first-class domain entities rather than unstructured documents
-- Architectural leadership: intentional trade-offs between delivery speed, scalability, and long-term evolvability
-- Product & governance mindset: security, ownership, UX, and feedback loops designed in from day one
+- System-level thinking : decisions modeled as first-class domain entities rather than unstructured documents
+- Architectural leadership : intentional trade-offs between delivery speed, scalability, and long-term evolvability
+- Product & governance mindset : security, ownership, UX, and feedback loops designed in from day one
 
 
 **🚧 Problems OpsPilot AI Solves**
-- Decision loss & knowledge decay: fragmented decisions lose rationale and accountability.
-- Untracked trade-offs: choices are made without lasting visibility into alternatives, risks, or assumptions.
-- Organisational misalignment at scale: growth causes decision drift, leading to rework and repeated mistakes.
+- Decision loss & knowledge decay : fragmented decisions lose rationale and accountability.
+- Untracked trade-offs : choices are made without lasting visibility into alternatives, risks, or assumptions.
+- Organisational misalignment at scale : growth causes decision drift, leading to rework and repeated mistakes.
 
 
 **🧱 Core Capabilities**
-- Structured decision lifecycle: decisions modeled with clear context, options, trade-offs, ownership, and outcomes.
-- Decision-to-impact traceability: link decisions to initiatives and measurable business or technical metrics over time.
-- Collaborative governance: RBAC, comments, change history, and audit trails for alignment and accountability.
+- Structured decision lifecycle : decisions modeled with clear context, options, trade-offs, ownership, and outcomes.
+- Decision-to-impact traceability : link decisions to initiatives and measurable business or technical metrics over time.
+- Collaborative governance : RBAC, comments, change history, and audit trails for alignment and accountability.
 
 
 **⚙️ Key Engineering Features**
-- Intentional architecture & boundaries: modular monolith with clear domains, optimized for speed and long-term evolution.
-- Security and governance by default: RBAC, ownership, audit logs, and schema validation built into the API layer.
-- Operational and delivery maturity: CI/CD, multi-environment deployments, observability, and safe rollback practices.
+- Intentional architecture & boundaries : modular monolith with clear domains, optimized for speed and long-term evolution.
+- Security and governance by default : RBAC, ownership, audit logs, and schema validation built into the API layer.
+- Operational and delivery maturity : CI/CD, multi-environment deployments, observability, and safe rollback practices.
 
 
 **📈 Why This Project Matters**
