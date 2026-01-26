@@ -73,7 +73,7 @@ Gatekeeper mirrors how modern engineering teams design, secure, and operate API 
 
 **OpsPilot AI** is a secure, audit-ready SaaS platform designed to demonstrate how AI can be safely embedded into enterprise operations.
 
-It focuses on governance, scalability, and compliance, not AI “demo features”.
+This project focuses on governance, scalability, and compliance, not AI “demo features”.
 
 
 **🧠 Technologies Used in Practice**
