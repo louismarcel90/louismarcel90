@@ -11,7 +11,7 @@ I build systems that help organizations **make better decisions at scale**, by t
 
 ---
 
-## 🎯 Engineering Impact
+### 🎯 Engineering Impact
 
 I operate at the intersection of **systems, people, and product** to deliver platforms that scale reliably over time.
 
@@ -19,175 +19,321 @@ I operate at the intersection of **systems, people, and product** to deliver pla
 - Drive architectural decisions balancing **delivery speed, scalability, and evolvability**
 - Multiply impact through design reviews, standards, and mentorship
 
-**What teams get:**
+**What teams get :**
 - Fewer regressions and architectural drift
 - Better decision traceability and accountability
 - Systems that scale with both traffic *and* organization size
 
 ---
 
-## 🧩 Selected Work
+### 🧩 Selected Work
 
 The projects below reflect how I approach system design: from organizational decision-making, to platform foundations, to AI-driven internal tooling.
 
-### 📌 FlowDesk ( Decision Intelligence & Governance Platform )
+---
+
+
+
+## 📌 FlowDesk (Decision Intelligence & Governance Platform)
+
+
+### 1. What This Project Is / Why It Exists
+
 
 FlowDesk is a full-stack decision governance platform that systematically captures, structures, audits, and evolves high-impact decisions.
+
+
 It institutionalizes decision traceability across organizations, mitigating knowledge loss, misalignment, and the recurrence of costly mistakes.
 
-**🧠 Technologies Used in Practice**
 
-Node.js · TypeScript · NestJS · PostgreSQL · Redis · React · Docker
-
-**🔍 What This Project Demonstrates**
-- System-level thinking : decisions modeled as first-class domain entities rather than unstructured documents
-- Architectural leadership : intentional trade-offs between delivery speed, scalability, and long-term evolvability
-- Product & governance mindset : security, ownership, UX, and feedback loops designed in from day one
+---
 
 
-**🚧 Problems OpsPilot AI Solves**
-- Decision loss & knowledge decay : fragmented decisions lose rationale and accountability.
-- Untracked trade-offs : choices are made without lasting visibility into alternatives, risks, or assumptions.
-- Organisational misalignment at scale : growth causes decision drift, leading to rework and repeated mistakes.
+### 2. Problems FlowDesk Solves
 
 
-**🧱 Core Capabilities**
-- Structured decision lifecycle : decisions modeled with clear context, options, trade-offs, ownership, and outcomes.
-- Decision-to-impact traceability : link decisions to initiatives and measurable business or technical metrics over time.
-- Collaborative governance : RBAC, comments, change history, and audit trails for alignment and accountability.
+- Decision loss & knowledge decay: fragmented decisions lose rationale and accountability
+- Untracked trade-offs: choices are made without lasting visibility into alternatives, risks, or assumptions
+- Organisational misalignment at scale: growth causes decision drift, leading to rework and repeated mistakes
 
 
-**📈 Scale & Constraints**
+---
+
+
+### 3. Access the System (Code & Live Environment)
+
+
+📦 **Repository** | ▶️ **Live Demo**
+
+
+---
+
+
+### 4. What This Project Demonstrates
+
+
+- System-level thinking: decisions modeled as first-class domain entities rather than unstructured documents
+- Architectural leadership: intentional trade-offs between delivery speed, scalability, and long-term evolvability
+- Product & governance mindset: security, ownership, UX, and feedback loops designed in from day one
+
+
+---
+
+
+### 5. Core Capabilities
+
+
+- Structured decision lifecycle: decisions modeled with clear context, options, trade-offs, ownership, and outcomes
+- Decision-to-impact traceability: link decisions to initiatives and measurable business or technical metrics over time
+- Collaborative governance: RBAC, comments, change history, and audit trails for alignment and accountability
+
+
+---
+
+
+### 6. Scale & Constraints
+
+
 - Designed for multi-team decision workflows, where clarity and traceability matter more than raw throughput
 - Optimized for long-lived data integrity, auditability, and historical reasoning over time
 - Architecture prioritizes organizational scalability (ownership, accountability, governance) over short-term feature velocity
 
 
-**⚙️ Key Engineering Features**
-- Intentional architecture & boundaries : modular monolith with clear domains, optimized for speed and long-term evolution.
-- Security and governance by default : RBAC, ownership, audit logs, and schema validation built into the API layer.
-- Operational and delivery maturity : CI/CD, multi-environment deployments, observability, and safe rollback practices.
+---
 
 
-**📈 Why This Project Matters**
-Treat decisions as long-lived system artifacts, capturing organisational reasoning rather than letting it decay into tribal knowledge is a must.
-FlowDesk reflects the ability to balance technical rigor, human workflows, and business impact.
+### 7. Key Engineering Features
 
-⬇️ **See the repository and Live Demo for full technical details below**
 
-📦 Repository | ▶️ Live Demo
+- Intentional architecture & boundaries: modular monolith with clear domains, optimized for speed and long-term evolution
+- Security and governance by default: RBAC, ownership, audit logs, and schema validation built into the API layer
+- Operational and delivery maturity: CI/CD, multi-environment deployments, observability, and safe rollback practices
+
 
 ---
 
-### 📌 Gatekeeper ( Zero-Trust API Gateway & Management Platform )
 
-**Gatekeeper** is a full-stack API security and governance platform built to address today’s most urgent enterprise needs :  
-access control, rate limiting, auditability, analytics, and abuse prevention.
+### 8. Technologies Used in Practice
 
-This project demonstrates the design of a modern API Gateway, focused on security, performance, and observability, with a fully-featured admin console.
-
-
-**🧠 Technologies Used in Practice**
 
 Node.js · TypeScript · NestJS · PostgreSQL · Redis · React · Docker
 
 
-**🔍 What This Project Demonstrates**
-- System design of a Zero-Trust API gateway
-- Trade-offs in security, performance, and observability
-- End-to-end ownership of a production-style platform
-  
+---
 
-**🚧 Problems Gatekeeper Solves**
+
+### 9. Why This Project Matters
+
+
+Treating decisions as long-lived system artifacts — capturing organisational reasoning rather than letting it decay into tribal knowledge — is a must.
+
+
+FlowDesk reflects the ability to balance technical rigor, human workflows, and business impact.
+
+
+---
+
+
+## 📌 Gatekeeper (Zero-Trust API Gateway & Management Platform)
+
+
+### 1. What This Project Is / Why It Exists
+
+
+Gatekeeper is a full-stack API security and governance platform built to address today’s most urgent enterprise needs: access control, rate limiting, auditability, analytics, and abuse prevention.
+
+
+This project demonstrates the design of a modern API Gateway, focused on security, performance, and observability, with a fully-featured admin console.
+
+
+---
+
+
+### 2. Problems Gatekeeper Solves
+
+
 - API exposure without consistent governance
 - Abuse, bots, and uncontrolled traffic
 - Limited visibility into API usage and risk
-  
 
-**🧱 Core Capabilities**
+
+---
+
+
+### 3. Access the System (Code & Live Environment)
+
+
+📦 **Repository** | ▶️ **Live Demo**
+
+
+---
+
+
+### 4. What This Project Demonstrates
+
+
+- System design of a Zero-Trust API gateway
+- Trade-offs in security, performance, and observability
+- End-to-end ownership of a production-style platform
+
+
+---
+
+
+### 5. Core Capabilities
+
+
 - Centralized access control at the gateway level
 - Deterministic rate limiting and quota enforcement
 - Auditable, observable API traffic
 
 
-**📈 Scale & Constraints**
+---
+
+
+### 6. Scale & Constraints
+
+
 - Built as a shared control plane enforcing access policies across multiple services
 - Optimized for predictable latency and deterministic behavior under load
 - Security, isolation, and observability are treated as non-negotiable constraints
 
 
-**⚙️ Key Engineering Features**
+---
+
+
+### 7. Key Engineering Features
+
+
 - Secure API access using API keys and JWT with scoped authorization
 - Deterministic traffic control via per-client and per-route rate limiting
 - Full operational visibility through audit logs, metrics, and an admin control plane
-  
 
-**📈 Why This Project Matters**
-
-APIs are a company’s primary integration surface and attack vector.
-Gatekeeper mirrors how modern platform teams design internal infrastructure
-for **regulated, security-conscious, and fast-growing organizations**.
-
-⬇️ **See the repository and Live Demo for full technical details below**
-
-📦 Repository | ▶️ Live Demo
 
 ---
 
-### 📌 OpsPilot AI ( Enterprise-Grade AI SaaS Platform )
 
-**OpsPilot AI** is a secure, audit-ready SaaS platform designed to demonstrate how AI can be safely embedded into enterprise operations.
-
-This project focuses on governance, scalability, and compliance, not AI “demo features”.
+### 8. Technologies Used in Practice
 
 
-**🧠 Technologies Used in Practice**
-
-Next.js · NestJS · TypeScript · PostgreSQL · Redis · OpenAI · Docker
+Node.js · TypeScript · NestJS · PostgreSQL · Redis · React · Docker
 
 
-**🔍 What This Project Demonstrates**
+---
+
+
+### 9. Why This Project Matters
+
+
+APIs are a company’s primary integration surface and attack vector.
+
+
+Gatekeeper mirrors how modern platform teams design internal infrastructure for regulated, security-conscious, and fast-growing organizations.
+
+
+---
+
+
+## 📌 OpsPilot AI (Enterprise-Grade AI SaaS Platform)
+
+
+### 1. What This Project Is / Why It Exists
+
+
+OpsPilot AI is a secure, audit-ready SaaS platform designed to demonstrate how AI can be safely embedded into enterprise operations.
+
+
+This project focuses on governance, scalability, and compliance — not AI “demo features”.
+
+
+---
+
+
+### 2. Problems OpsPilot AI Solves
+
+
+- Uncontrolled AI usage in sensitive enterprise workflows
+- Lack of authorization, isolation, and audit trails in automation
+- Operational risk caused by manual or ad-hoc internal tooling
+
+
+---
+
+
+### 3. Access the System (Code & Live Environment)
+
+
+📦 **Repository** | ▶️ **Live Demo**
+
+
+---
+
+
+### 4. What This Project Demonstrates
+
+
 - System design shaped by explicit risk assessment, constraints, and long-term trade-offs
 - Governed AI integration with validation, observability, and auditability built in
 - End-to-end ownership through vertical slices, with a clear and enforceable Definition of Done
 
 
-**🚧 Problems OpsPilot AI Solves**
-- Uncontrolled AI usage in sensitive enterprise workflows
-- Lack of authorization, isolation, and audit trails in automation
-- Operational risk caused by manual or ad-hoc internal tooling
-  
+---
 
-**🧱 Core Capabilities**
+
+### 5. Core Capabilities
+
+
 - Stateless authentication with fine-grained RBAC
 - Deterministic workflows enhanced by AI-assisted steps
 - Immutable audit logging for human and AI-driven actions
 
 
-**📈 Scale & Constraints**
+---
+
+
+### 6. Scale & Constraints
+
+
 - Designed for enterprise internal tooling where misuse and ambiguity carry real operational risk
 - AI capabilities constrained by explicit permissions, guardrails, and audit trails
 - Optimized for safety, trust, and explainability over experimentation or hype
 
 
-**⚙️ Key Engineering Features**
+---
+
+
+### 7. Key Engineering Features
+
+
 - Explicit permission gating for AI access
 - Shared Zod-based contracts across frontend and backend
 - Production-grade logging, health checks, and CI enforcement
-  
 
-**📈 Why This Project Matters**
-
-Most AI projects optimize for capability.
-OpsPilot AI optimizes for safety, clarity, and long-term maintainability.
-
-⬇️ **See the repository and Live Demo for full technical details below**
-
-📦 Repository | ▶️ Live Demo
 
 ---
 
+
+### 8. Technologies Used in Practice
+
+
+Next.js · NestJS · TypeScript · PostgreSQL · Redis · OpenAI · Docker
+
+
+---
+
+
+### 9. Why This Project Matters
+
+
+Most AI projects optimize for capability.
+**OpsPilot AI optimizes for safety, clarity, and long-term maintainability.**
+
+
+---
+
+
 ## 🏗️ Technical Foundations
+
 
 - End-to-end web systems (React / Next.js, Node.js)
 - Backend & API architecture (REST, Auth, Validation)
@@ -196,9 +342,12 @@ OpsPilot AI optimizes for safety, clarity, and long-term maintainability.
 - Testing strategies & system reliability
 - AI-powered features (OpenAI APIs)
 
+
 ---
 
+
 ## 🧭 How I Think as an Engineer
+
 
 - Architecture is a **product decision**
 System boundaries and APIs shape scale, velocity, and long-term cost.
@@ -207,9 +356,12 @@ Ownership and auditability are designed in, not added later.
 - I optimize for **long-term leverage**
 Code changes. Architectural decisions compound.
 
+
 ---
+
 
 ## 📬 Contact
 
-- 🧾 LinkedIn: https://www.linkedin.com/in/louis-marcel-bonga-763904184
-- 📨 Email: didierbonga.a@gmail.com
+
+- 🧾 **LinkedIn :**  https://www.linkedin.com/in/louis-marcel-bonga-763904184
+- 📨 **Email :** didierbonga.a@gmail.com
