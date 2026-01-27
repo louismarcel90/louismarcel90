@@ -125,7 +125,7 @@ Node.js · TypeScript · NestJS · PostgreSQL · Redis · React · Docker
 ### 9. 🏛️ Why This Project Matters
 
 
-Treating decisions as long-lived system artifacts — capturing organisational reasoning rather than letting it decay into tribal knowledge — is a must.
+Treating decisions as long-lived system artifacts — capturing organisational reasoning rather than letting it decay into tribal knowledge is a must.
 
 
 FlowDesk reflects the ability to balance technical rigor, human workflows, and business impact.
@@ -243,7 +243,7 @@ Gatekeeper mirrors how modern platform teams design internal infrastructure for 
 OpsPilot AI is a secure, audit-ready SaaS platform designed to demonstrate how AI can be safely embedded into enterprise operations.
 
 
-This project focuses on governance, scalability, and compliance — not AI “demo features”.
+This project focuses on governance, scalability, and compliance, not AI “demo features”.
 
 
 ---
@@ -350,11 +350,11 @@ Most AI projects optimize for capability.
 
 
 - Architecture is a **product decision**
-System boundaries and APIs shape scale, velocity, and long-term cost.
+System boundaries and APIs shape scale, velocity, and long-term cost
 - Security, governance, and observability are **first-class features**
-Ownership and auditability are designed in, not added later.
+Ownership and auditability are designed in, not added later
 - I optimize for **long-term leverage**
-Code changes. Architectural decisions compound.
+Code changes. Architectural decisions compound
 
 
 ---
