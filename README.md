@@ -37,7 +37,7 @@ The projects below reflect how I approach system design: from organizational dec
 ## 📌 FlowDesk (Decision Intelligence & Governance Platform)
 
 
-### 1. What This Project Is / Why It Exists
+### 1. 🧠 What This Project Is / Why It Exists
 
 
 FlowDesk is a full-stack decision governance platform that systematically captures, structures, audits, and evolves high-impact decisions.
@@ -49,7 +49,7 @@ It institutionalizes decision traceability across organizations, mitigating know
 ---
 
 
-### 2. Problems FlowDesk Solves
+### 2. ⚠️ Problems FlowDesk Solves
 
 
 - Decision loss & knowledge decay: fragmented decisions lose rationale and accountability
@@ -60,7 +60,7 @@ It institutionalizes decision traceability across organizations, mitigating know
 ---
 
 
-### 3. Access the System (Code & Live Environment)
+### 3. 🔓 Access the System (Code & Live Environment)
 
 
 📦 **Repository** | ▶️ **Live Demo**
@@ -69,7 +69,7 @@ It institutionalizes decision traceability across organizations, mitigating know
 ---
 
 
-### 4. What This Project Demonstrates
+### 4. 🧪 What This Project Demonstrates
 
 
 - System-level thinking: decisions modeled as first-class domain entities rather than unstructured documents
@@ -80,7 +80,7 @@ It institutionalizes decision traceability across organizations, mitigating know
 ---
 
 
-### 5. Core Capabilities
+### 5. 🧱 Core Capabilities
 
 
 - Structured decision lifecycle: decisions modeled with clear context, options, trade-offs, ownership, and outcomes
@@ -91,7 +91,7 @@ It institutionalizes decision traceability across organizations, mitigating know
 ---
 
 
-### 6. Scale & Constraints
+### 6. 📐 Scale & Constraints
 
 
 - Designed for multi-team decision workflows, where clarity and traceability matter more than raw throughput
@@ -102,7 +102,7 @@ It institutionalizes decision traceability across organizations, mitigating know
 ---
 
 
-### 7. Key Engineering Features
+### 7. ⚙️ Key Engineering Features
 
 
 - Intentional architecture & boundaries: modular monolith with clear domains, optimized for speed and long-term evolution
@@ -113,7 +113,7 @@ It institutionalizes decision traceability across organizations, mitigating know
 ---
 
 
-### 8. Technologies Used in Practice
+### 8. 🧰 Technologies Used in Practice
 
 
 Node.js · TypeScript · NestJS · PostgreSQL · Redis · React · Docker
@@ -122,7 +122,7 @@ Node.js · TypeScript · NestJS · PostgreSQL · Redis · React · Docker
 ---
 
 
-### 9. Why This Project Matters
+### 9. 🏛️ Why This Project Matters
 
 
 Treating decisions as long-lived system artifacts — capturing organisational reasoning rather than letting it decay into tribal knowledge — is a must.
@@ -137,7 +137,7 @@ FlowDesk reflects the ability to balance technical rigor, human workflows, and b
 ## 📌 Gatekeeper (Zero-Trust API Gateway & Management Platform)
 
 
-### 1. What This Project Is / Why It Exists
+### 1. 🧠 What This Project Is / Why It Exists
 
 
 Gatekeeper is a full-stack API security and governance platform built to address today’s most urgent enterprise needs: access control, rate limiting, auditability, analytics, and abuse prevention.
@@ -149,7 +149,7 @@ This project demonstrates the design of a modern API Gateway, focused on securit
 ---
 
 
-### 2. Problems Gatekeeper Solves
+### 2. ⚠️ Problems Gatekeeper Solves
 
 
 - API exposure without consistent governance
@@ -160,7 +160,7 @@ This project demonstrates the design of a modern API Gateway, focused on securit
 ---
 
 
-### 3. Access the System (Code & Live Environment)
+### 3. 🔓 Access the System (Code & Live Environment)
 
 
 📦 **Repository** | ▶️ **Live Demo**
@@ -169,7 +169,7 @@ This project demonstrates the design of a modern API Gateway, focused on securit
 ---
 
 
-### 4. What This Project Demonstrates
+### 4. 🧪 What This Project Demonstrates
 
 
 - System design of a Zero-Trust API gateway
@@ -180,7 +180,7 @@ This project demonstrates the design of a modern API Gateway, focused on securit
 ---
 
 
-### 5. Core Capabilities
+### 5. 🧱 Core Capabilities
 
 
 - Centralized access control at the gateway level
@@ -191,7 +191,7 @@ This project demonstrates the design of a modern API Gateway, focused on securit
 ---
 
 
-### 6. Scale & Constraints
+### 6. 📐 Scale & Constraints
 
 
 - Built as a shared control plane enforcing access policies across multiple services
@@ -202,7 +202,7 @@ This project demonstrates the design of a modern API Gateway, focused on securit
 ---
 
 
-### 7. Key Engineering Features
+### 7. ⚙️ Key Engineering Features
 
 
 - Secure API access using API keys and JWT with scoped authorization
@@ -213,7 +213,7 @@ This project demonstrates the design of a modern API Gateway, focused on securit
 ---
 
 
-### 8. Technologies Used in Practice
+### 8. 🧰 Technologies Used in Practice
 
 
 Node.js · TypeScript · NestJS · PostgreSQL · Redis · React · Docker
@@ -222,7 +222,7 @@ Node.js · TypeScript · NestJS · PostgreSQL · Redis · React · Docker
 ---
 
 
-### 9. Why This Project Matters
+### 9. 🏛️ Why This Project Matters
 
 
 APIs are a company’s primary integration surface and attack vector.
@@ -237,7 +237,7 @@ Gatekeeper mirrors how modern platform teams design internal infrastructure for 
 ## 📌 OpsPilot AI (Enterprise-Grade AI SaaS Platform)
 
 
-### 1. What This Project Is / Why It Exists
+### 1. 🧠 What This Project Is / Why It Exists
 
 
 OpsPilot AI is a secure, audit-ready SaaS platform designed to demonstrate how AI can be safely embedded into enterprise operations.
@@ -249,7 +249,7 @@ This project focuses on governance, scalability, and compliance — not AI “de
 ---
 
 
-### 2. Problems OpsPilot AI Solves
+### 2. ⚠️ Problems OpsPilot AI Solves
 
 
 - Uncontrolled AI usage in sensitive enterprise workflows
@@ -260,7 +260,7 @@ This project focuses on governance, scalability, and compliance — not AI “de
 ---
 
 
-### 3. Access the System (Code & Live Environment)
+### 3. 🔓 Access the System (Code & Live Environment)
 
 
 📦 **Repository** | ▶️ **Live Demo**
@@ -269,7 +269,7 @@ This project focuses on governance, scalability, and compliance — not AI “de
 ---
 
 
-### 4. What This Project Demonstrates
+### 4. 🧪 What This Project Demonstrates
 
 
 - System design shaped by explicit risk assessment, constraints, and long-term trade-offs
@@ -280,7 +280,7 @@ This project focuses on governance, scalability, and compliance — not AI “de
 ---
 
 
-### 5. Core Capabilities
+### 5. 🧱 Core Capabilities
 
 
 - Stateless authentication with fine-grained RBAC
@@ -291,7 +291,7 @@ This project focuses on governance, scalability, and compliance — not AI “de
 ---
 
 
-### 6. Scale & Constraints
+### 6. 📐 Scale & Constraints
 
 
 - Designed for enterprise internal tooling where misuse and ambiguity carry real operational risk
@@ -302,7 +302,7 @@ This project focuses on governance, scalability, and compliance — not AI “de
 ---
 
 
-### 7. Key Engineering Features
+### 7. ⚙️ Key Engineering Features
 
 
 - Explicit permission gating for AI access
@@ -313,7 +313,7 @@ This project focuses on governance, scalability, and compliance — not AI “de
 ---
 
 
-### 8. Technologies Used in Practice
+### 8. 🧰 Technologies Used in Practice
 
 
 Next.js · NestJS · TypeScript · PostgreSQL · Redis · OpenAI · Docker
@@ -322,7 +322,7 @@ Next.js · NestJS · TypeScript · PostgreSQL · Redis · OpenAI · Docker
 ---
 
 
-### 9. Why This Project Matters
+### 9. 🏛️ Why This Project Matters
 
 
 Most AI projects optimize for capability.
@@ -363,5 +363,5 @@ Code changes. Architectural decisions compound.
 ## 📬 Contact
 
 
-- 🧾 **LinkedIn :**  https://www.linkedin.com/in/louis-marcel-bonga-763904184
-- 📨 **Email :** didierbonga.a@gmail.com
+- 💼 **LinkedIn :**  https://www.linkedin.com/in/louis-marcel-bonga-763904184
+- ✉️ **Email :** didierbonga.a@gmail.com
