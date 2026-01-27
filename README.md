@@ -18,7 +18,7 @@ I build systems that help organizations **make better decisions at scale**, by t
 
 ---
 
-## 🛡️ Scope of Responsibility
+### 🛡️ Scope of Responsibility
 
 I operate at Staff / Principal level scope, focusing on :
 
