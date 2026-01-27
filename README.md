@@ -43,7 +43,7 @@ I operate at the intersection of **systems, people, and product** to deliver pla
 
 ---
 
-### 📊 Measurable Outcomes (Representative)
+### 📊 Measurable Outcomes
 
 While these projects are independent initiatives, they are designed to mirror real-world scale and constraints:
 
