@@ -28,6 +28,7 @@ The projects below reflect how I approach system design: from organizational dec
 <table>
   <tr>
     <td align="center" width="33%">
+      <img src="PATH_TO_IMAGE_1" alt="flowdesk" />
       <h1>FlowDesk</h1>
       <h3>📌Decision Intelligence & Governance Platform</h3>
       <i>FlowDesk is a full-stack decision governance platform that systematically captures, structures, audits, and evolves high-impact decisions, institutionalizing decision traceability across organizations</i>
@@ -38,6 +39,7 @@ The projects below reflect how I approach system design: from organizational dec
       <sub><strong>Tags:</strong> Governance, Ownership, Security</sub>
     </td>
     <td align="center" width="33%">
+      <img src="PATH_TO_IMAGE_1" alt="gatekeeper" />
       <h1>Gatekeeper</h1>
       <h3>📌Zero-Trust API Gateway & Management Platform</h3>
       <i>Gatekeeper is a full-stack API security and governance platform built to address today’s most urgent enterprise needs: access control, rate limiting, auditability, analytics, and abuse prevention</i>
@@ -48,6 +50,7 @@ The projects below reflect how I approach system design: from organizational dec
       <sub><strong>Tags:</strong> API, Security, Observability</sub>
     </td>
     <td align="center" width="33%">
+      <img src="PATH_TO_IMAGE_1" alt="opspilot" />
       <h1>OpsPilot AI</h1>
       <h3>📌Enterprise-Grade AI SaaS Platform</h3>
       <i>OpsPilot AI is a secure, audit-ready SaaS platform designed to demonstrate how AI can be safely embedded into enterprise operations, focusing on governance, scalability, and compliance</i>
