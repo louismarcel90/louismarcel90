@@ -18,6 +18,50 @@ I build systems that help organizations **make better decisions at scale**, by t
 
 ---
 
+
+## tests – showcase
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="PATH_TO_IMAGE_1" alt="DeepSeek AI Chatbot" />
+      <br /><br />
+      <strong>DeepSeek AI Chatbot</strong>
+      <br /><br />
+      Built an LLM-powered chatbot that answers domain-specific questions in real time.
+      <br /><br />
+      🔗 <a href="REPO_LINK_1">Repo</a>
+      <br /><br />
+      <sub><strong>Tags:</strong> AI, LLMs, Prompt Engineering</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="PATH_TO_IMAGE_2" alt="Cloud CI/CD Pipeline" />
+      <br /><br />
+      <strong>Cloud CI/CD Pipeline</strong>
+      <br /><br />
+      Automated deployment of a web app using GitHub Actions and AWS ECS.
+      <br /><br />
+      🔗 <a href="REPO_LINK_2">Repo</a>
+      <br /><br />
+      <sub><strong>Tags:</strong> DevOps, Docker, GitHub Actions</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="PATH_TO_IMAGE_3" alt="Secure AWS VPC" />
+      <br /><br />
+      <strong>Secure AWS VPC</strong>
+      <br /><br />
+      Designed and deployed a custom VPC with public/private subnets and routing.
+      <br /><br />
+      🔗 <a href="REPO_LINK_3">Repo</a>
+      <br /><br />
+      <sub><strong>Tags:</strong> Networking, AWS, Security</sub>
+    </td>
+  </tr>
+</table>
+
+
+---
+
 ### 🛡️ Scope of Responsibility
 
 I operate at Staff / Principal level scope, focusing on :
