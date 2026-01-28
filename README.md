@@ -19,20 +19,24 @@ I build systems that help organizations **make better decisions at scale**, by t
 ---
 
 
-## tests – showcase
+### 🧩 Selected Work
+
+The projects below reflect how I approach system design: from organizational decision-making, to platform foundations, to AI-driven internal tooling.
+
+---
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="PATH_TO_IMAGE_1" alt="DeepSeek AI Chatbot" />
+      <img src="PATH_TO_IMAGE_1" alt="project1" />
       <br /><br />
-      <strong>DeepSeek AI Chatbot</strong>
+      <strong>FlowDesk (Decision Intelligence & Governance Platform)</strong>
       <br /><br />
-      Built an LLM-powered chatbot that answers domain-specific questions in real time.
+      FlowDesk is a full-stack decision governance platform that systematically captures, structures, audits, and evolves high-impact decisions.
       <br /><br />
       🔗 <a href="REPO_LINK_1">Repo</a>
       <br /><br />
-      <sub><strong>Tags:</strong> AI, LLMs, Prompt Engineering</sub>
+      <sub><strong>Tags:</strong> governance, ownership, security</sub>
     </td>
     <td align="center" width="33%">
       <img src="PATH_TO_IMAGE_2" alt="Cloud CI/CD Pipeline" />
