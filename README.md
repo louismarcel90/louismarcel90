@@ -30,14 +30,14 @@ The projects below reflect how I approach system design: from organizational dec
     <td align="center" width="33%">
       <img src="PATH_TO_IMAGE_1" alt="project1" />
       <br /><br />
-      <strong>FlowDesk</strong><br />
-      <strong>Decision Intelligence & Governance Platform</strong>
+      <h1>FlowDesk</h1>
+      <h3>Decision Intelligence & Governance Platform</h3>
+      <i>FlowDesk is a full-stack decision governance platform that systematically captures, structures, audits, and evolves high-impact decisions</i>
+      <br />
+      <h4>🔓 Access the System (Code & Live Environment)</h4>
+      📦 <a href="REPO_LINK_1">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a>
       <br /><br />
-      FlowDesk is a full-stack decision governance platform that systematically captures, structures, audits, and evolves high-impact decisions.
-      <br /><br />
-      🔗 <a href="REPO_LINK_1">Repo</a>
-      <br /><br />
-      <sub><strong>Tags:</strong> governance, ownership, security</sub>
+      <sub><strong>Tags:</strong> Governance, Ownership, Security</sub>
     </td>
     <td align="center" width="33%">
       <img src="PATH_TO_IMAGE_2" alt="Cloud CI/CD Pipeline" />
