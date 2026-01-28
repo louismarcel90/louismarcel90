@@ -31,7 +31,7 @@ The projects below reflect how I approach system design: from organizational dec
       <img src="PATH_TO_IMAGE_1" alt="project1" />
       <br /><br />
       <strong>FlowDesk</strong>
-      <strong>Decision Intelligence & Governance Platform</strong>
+      <strong>Decision Intelligence & Governance Platform</strong><br />
       <br /><br />
       FlowDesk is a full-stack decision governance platform that systematically captures, structures, audits, and evolves high-impact decisions.
       <br /><br />
