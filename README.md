@@ -6,11 +6,13 @@ I design, build, and own **production-grade platforms** focused on **security, g
 
 ---
 
+
 ## Executive Summary
 
 These systems are inspired by real production failures and organizational bottlenecks observed in multi-team environments, and are designed to prevent their recurrence through durable architectural primitives.
 
 ---
+
 
 ## TL;DR
 I build systems that help organizations **make better decisions at scale**, by treating architecture, security, and governance as **first-class engineering problems**.
@@ -65,14 +67,6 @@ Each project mirrors real-world scale, failure modes, and governance constraints
 
 ---
 
-## 🛡️ Scope of Responsibility
-
-I operate at Staff / Principal level scope, focusing on :
-
-- Drive cross-team architectural alignment through clear system boundaries, long-lived API contracts, and explicit ownership models
-- Treat security, governance, and failure modes as first-class design concerns, multiplying impact via standards, reviews, and technical direction
-
----
 
 ## 🎯 Engineering Impact
 
@@ -87,6 +81,7 @@ I operate at the intersection of **systems, people, and product** to deliver pla
 
 ---
 
+
 ## 📊 Measurable Outcomes
 
 While these projects are independent initiatives, they are designed to mirror real-world scale and constraints:
@@ -96,29 +91,13 @@ While these projects are independent initiatives, they are designed to mirror re
 
 ---
 
-## 🧭 How to Read This Profile
 
+## 🛡️ Scope of Responsibility
 
-This profile is intentionally structured to reflect how I approach real-world system design. While these projects are independent initiatives, they are grounded in production realities.
+I operate at Staff / Principal level scope, focusing on :
 
-
-Each project aims to highlight:
-- Thoughtful architectural trade-offs made under realistic organizational and technical constraints
-- Ownership that prioritizes long-term system durability over short-term feature velocity
-
----
-
-
-## 🏗️ Technical Foundations
-
-
-- End-to-end web systems (React / Next.js, Node.js)
-- Backend & API architecture (REST, Auth, Validation)
-- Data modeling & performance (PostgreSQL, Redis, MongoDB)
-- Production delivery (Docker, CI/CD, Cloud platforms)
-- Testing strategies & system reliability
-- AI-powered features (OpenAI APIs)
-
+- Drive cross-team architectural alignment through clear system boundaries, long-lived API contracts, and explicit ownership models
+- Treat security, governance, and failure modes as first-class design concerns, multiplying impact via standards, reviews, and technical direction
 
 ---
 
@@ -129,6 +108,31 @@ Each project aims to highlight:
 - Architecture is a product decision: system boundaries and APIs directly shape scale, velocity, and long-term cost
 - Security, governance, and observability are designed-in primitives, optimized for long-term leverage and compounding impact
 
+---
+
+
+## 🏗️ Technical Foundations
+
+
+- End-to-end web systems (React / Next.js, Node.js)
+- Backend & API architecture (REST, Auth)
+- Data & performance (PostgreSQL, Redis, MongoDB)
+- Production & reliability (Docker, CI/CD, Cloud)
+- AI-powered features (OpenAI APIs)
+
+
+---
+
+
+## 🧭 How to Read This Profile
+
+
+This profile is intentionally structured to reflect how I approach real-world system design. While these projects are independent initiatives, they are grounded in production realities.
+
+
+Each project aims to highlight:
+- Thoughtful architectural trade-offs made under realistic organizational and technical constraints
+- Ownership that prioritizes long-term system durability over short-term feature velocity
 
 ---
 
