@@ -94,7 +94,7 @@ While these projects are independent initiatives, they are designed to mirror re
 
 ## 🛡️ Scope of Responsibility
 
-I operate at Staff / Principal level scope, focusing on :
+I operate at Senior / Staff level scope, focusing on :
 
 - Drive cross-team architectural alignment through clear system boundaries, long-lived API contracts, and explicit ownership models
 - Treat security, governance, and failure modes as first-class design concerns, multiplying impact via standards, reviews, and technical direction
