@@ -6,20 +6,20 @@ I design, build, and own **production-grade platforms** focused on **security, g
 
 ---
 
-### Executive Summary
+## Executive Summary
 
 I design and own production-grade platforms that prevent organizations from repeating the same mistakes — 
 by turning architecture, security, and decision-making into long-lived system primitives.
 
 ---
 
-### TL;DR
+## TL;DR
 I build systems that help organizations **make better decisions at scale**, by treating architecture, security, and governance as **first-class engineering problems**.
 
 ---
 
 
-### 🧩 Selected Work
+## 🧩 Selected Work
 
 The projects below reflect how I approach system design: from organizational decision-making, to platform foundations, to AI-driven internal tooling.
 
@@ -66,7 +66,7 @@ The projects below reflect how I approach system design: from organizational dec
 
 ---
 
-### 🛡️ Scope of Responsibility
+## 🛡️ Scope of Responsibility
 
 I operate at Staff / Principal level scope, focusing on :
 
@@ -76,7 +76,7 @@ I operate at Staff / Principal level scope, focusing on :
 
 ---
 
-### 🎯 Engineering Impact
+## 🎯 Engineering Impact
 
 I operate at the intersection of **systems, people, and product** to deliver platforms that scale reliably over time.
 
@@ -91,7 +91,7 @@ I operate at the intersection of **systems, people, and product** to deliver pla
 
 ---
 
-### 📊 Measurable Outcomes
+## 📊 Measurable Outcomes
 
 While these projects are independent initiatives, they are designed to mirror real-world scale and constraints:
 
@@ -101,7 +101,7 @@ While these projects are independent initiatives, they are designed to mirror re
 
 ---
 
-### 🧭 How to Read This Profile
+## 🧭 How to Read This Profile
 
 
 This GitHub profile is intentionally structured to reflect how I approach real-world system design.
