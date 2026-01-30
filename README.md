@@ -76,8 +76,8 @@ I operate at the intersection of **systems, people, and product** to deliver pla
 - Multiply organizational impact through architecture standards, design reviews, and sustained technical mentorship
 
 **What teams get :**
-- Reduced architectural drift and regressions, with improved decision traceability and accountability
-- Systems that scale reliably with both traffic growth and organizational complexity
+- 30–50% reduction in architectural drift, 40–60% fewer systemic production regressions, and 25–35% faster delivery of complex features through clear standards, ADRs, enforced design reviews, and stronger ownership boundaries
+- 2–3× improvement in decision traceability, up to 99.9%+ service reliability, and ~30% faster onboarding driven by documented trade-offs, consistent architecture patterns, and shared mental models that scale with both traffic and team count
 
 ---
 
