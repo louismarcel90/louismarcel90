@@ -56,7 +56,7 @@ The projects below reflect how I approach system design: from organizational dec
       <i>OpsPilot AI is a secure, audit-ready SaaS platform designed to demonstrate how AI can be safely embedded into enterprise operations, focusing on governance, scalability, and compliance</i>
       <br />
       <h4>🔓 Access the System (Code & Live Environment)</h4>
-      📦 <strong><a href="REPO_LINK_1">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
+      📦 <strong><a href="https://github.com/louismarcel90/OpsPilot-AI">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
       <br />
       <sub><strong>Tags:</strong> Governance, Scalability, Compliance</sub>
     </td>
