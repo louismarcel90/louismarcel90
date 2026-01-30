@@ -104,6 +104,9 @@ I operate at Staff / Principal level scope, focusing on :
 
 ## 🧠 How I Think as an Engineer
 
+Production failures caused not by bad code, but by **unclear ownership, forgotten decisions, and brittle architecture**.
+
+I build systems that make those failures **hard to create and easy to detect**.
 
 - Architecture is a product decision: system boundaries and APIs directly shape scale, velocity, and long-term cost
 - Security, governance, and observability are designed-in primitives, optimized for long-term leverage and compounding impact
