@@ -1,4 +1,4 @@
-## Software Engineer | Architecture • TypeScript • Distributed Systems
+# Software Engineer | Architecture • TypeScript • Distributed Systems
 
 I design, build, and own **production-grade platforms** focused on **security, governance, and long-term system reliability**.
 
