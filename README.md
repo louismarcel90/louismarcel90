@@ -8,8 +8,7 @@ I design, build, and own **production-grade platforms** focused on **security, g
 
 ## Executive Summary
 
-I design and own production-grade platforms that prevent organizations from repeating the same mistakes — 
-by turning architecture, security, and decision-making into long-lived system primitives.
+These systems are inspired by real production failures and organizational bottlenecks observed in multi-team environments, and are designed to prevent their recurrence through durable architectural primitives.
 
 ---
 
@@ -21,7 +20,7 @@ I build systems that help organizations **make better decisions at scale**, by t
 
 ## 🧩 Selected Work
 
-The projects below reflect how I approach system design: from organizational decision-making, to platform foundations, to AI-driven internal tooling.
+Each projects mirrors real-world scale, failure modes, and governance constraints observed in production environments.
 
 ---
 
@@ -32,33 +31,33 @@ The projects below reflect how I approach system design: from organizational dec
       <h1>FlowDesk</h1>
       <h3>📌Decision Intelligence & Governance Platform</h3>
       <i>FlowDesk is a full-stack decision governance platform that systematically captures, structures, audits, and evolves high-impact decisions, institutionalizing decision traceability across organizations</i>
-      <br />
+      <br /><br/>
       <h4>🔓 Access the System (Code & Live Environment)</h4>
       📦 <strong><a href="https://github.com/louismarcel90/FlowDesk">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
-      <br />
-      <sub><strong>Tags:</strong> Governance, Ownership, Security</sub>
+      <br /><br/>
+      <sub>Inspired by repeated production incidents caused by undocumented decisions, unclear ownership, and irreversible architectural choices.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/images/gatekeeper.jpeg" alt="gatekeeper.png" />
       <h1>Gatekeeper</h1>
       <h3>📌Zero-Trust API Gateway & Management Platform</h3>
       <i>Gatekeeper is a full-stack API security and governance platform built to address today’s most urgent enterprise needs: access control, rate limiting, auditability, analytics, and abuse prevention</i>
-      <br />
+      <br /><br/>
       <h4>🔓 Access the System (Code & Live Environment)</h4>
       📦 <strong><a href="https://github.com/louismarcel90/Gatekeeper">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
-      <br />
-      <sub><strong>Tags:</strong> API, Security, Observability</sub>
+      <br /><br/>
+      <sub>Built to reflect access control, rate limiting, and auditability challenges commonly encountered in production API platforms operating at organizational scale.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/images/opspilotai.jpeg" alt="opspilotAI.png" />
       <h1>OpsPilot AI</h1>
       <h3>📌Enterprise-Grade AI SaaS Platform</h3>
       <i>OpsPilot AI is a secure, audit-ready SaaS platform designed to demonstrate how AI can be safely embedded into enterprise operations, focusing on governance, scalability, and compliance</i>
-      <br />
+      <br /><br />
       <h4>🔓 Access the System (Code & Live Environment)</h4>
       📦 <strong><a href="https://github.com/louismarcel90/OpsPilot-AI">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
-      <br />
-      <sub><strong>Tags:</strong> Governance, Scalability, Compliance</sub>
+      <br /><br />
+      <sub>Designed to demonstrate how AI systems can be safely embedded into enterprise operations, informed by concerns observed in production SaaS environments.</sub>
     </td>
   </tr>
 </table>
@@ -92,15 +91,15 @@ I operate at the intersection of **systems, people, and product** to deliver pla
 
 While these projects are independent initiatives, they are designed to mirror real-world scale and constraints:
 
-- Designed auditable decision workflows supporting 100+ concurrent records across multiple ownership domains  
-- Simulated multi-team environments (5–10 teams) and validated architectures against real-world failure modes, ensuring long-term data integrity, and schema evolution
+- Designed auditable decision workflows supporting 100+ concurrent records across multiple ownership domains, mirroring real organizational scale and review processes 
+- Validated architectures against real-world failure modes observed in production systems, ensuring long-term data integrity, safe rollbacks, and schema evolution
 
 ---
 
 ## 🧭 How to Read This Profile
 
 
-This GitHub profile is intentionally structured to reflect how I approach real-world system design.
+This profile is intentionally structured to reflect how I approach real-world system design. While these projects are independent initiatives, they are grounded in production realities.
 
 
 Each project aims to highlight:
