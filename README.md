@@ -70,9 +70,8 @@ The projects below reflect how I approach system design: from organizational dec
 
 I operate at Staff / Principal level scope, focusing on :
 
-- Cross-team architectural alignment through clear system boundaries and long-lived API contracts
-- Security, governance, and failure modes treated as first-class, design-time concerns
-- Multiplying team impact via standards, design reviews, and technical direction
+- Drive cross-team architectural alignment through clear system boundaries, long-lived API contracts, and explicit ownership models
+- Treat security, governance, and failure modes as first-class design concerns, multiplying impact via standards, reviews, and technical direction
 
 ---
 
@@ -80,14 +79,12 @@ I operate at Staff / Principal level scope, focusing on :
 
 I operate at the intersection of **systems, people, and product** to deliver platforms that scale reliably over time.
 
-- Set technical direction for **production-grade systems** with long-lived APIs and clear domain boundaries
-- Drive architectural decisions balancing **delivery speed, scalability, and evolvability**
-- Multiply impact through design reviews, standards, and mentorship
+- Set technical direction for production-grade systems by balancing delivery speed, scalability, and long-term evolvability
+- Multiply organizational impact through architecture standards, design reviews, and sustained technical mentorship
 
 **What teams get :**
-- Fewer regressions and architectural drift
-- Better decision traceability and accountability
-- Systems that scale with both traffic *and* organization size
+- Reduced architectural drift and regressions, with improved decision traceability and accountability
+- Systems that scale reliably with both traffic growth and organizational complexity
 
 ---
 
@@ -96,8 +93,7 @@ I operate at the intersection of **systems, people, and product** to deliver pla
 While these projects are independent initiatives, they are designed to mirror real-world scale and constraints:
 
 - Designed auditable decision workflows supporting 100+ concurrent records across multiple ownership domains  
-- Simulated multi-team environments (5–10 teams) with clear responsibility boundaries and access control  
-- Architectures validated against real failure modes, ensuring multi-year data integrity, safe rollbacks, and schema evolution  
+- Simulated multi-team environments (5–10 teams) and validated architectures against real-world failure modes, ensuring long-term data integrity, and schema evolution
 
 ---
 
@@ -108,9 +104,8 @@ This GitHub profile is intentionally structured to reflect how I approach real-w
 
 
 Each project aims to highlight:
-- Thoughtful architectural trade-offs made under realistic constraints
-- Ownership that goes beyond feature delivery, into long-term system health
-- Systems designed for durability and reliability, not just short-term velocity
+- Thoughtful architectural trade-offs made under realistic organizational and technical constraints
+- Ownership that prioritizes long-term system durability over short-term feature velocityity
 
 ---
 
@@ -132,12 +127,8 @@ Each project aims to highlight:
 ## 🧠 How I Think as an Engineer
 
 
-- Architecture is a **product decision**
-System boundaries and APIs shape scale, velocity, and long-term cost
-- Security, governance, and observability are **first-class features**
-Ownership and auditability are designed in, not added later
-- I optimize for **long-term leverage**
-Code changes. Architectural decisions compound
+- Architecture is a product decision: system boundaries and APIs directly shape scale, velocity, and long-term cost
+- Security, governance, and observability are designed-in primitives, optimized for long-term leverage and compounding impact
 
 
 ---
