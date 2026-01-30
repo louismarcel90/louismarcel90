@@ -20,7 +20,7 @@ I build systems that help organizations **make better decisions at scale**, by t
 
 ## 🧩 Selected Work
 
-Each projects mirrors real-world scale, failure modes, and governance constraints observed in production environments.
+Each project mirrors real-world scale, failure modes, and governance constraints observed in production environments, implementing schema evolution with zero downtime through backward-compatible changes, phased rollouts, and safe rollback paths that preserve data integrity while systems remain live.
 
 ---
 
@@ -91,8 +91,8 @@ I operate at the intersection of **systems, people, and product** to deliver pla
 
 While these projects are independent initiatives, they are designed to mirror real-world scale and constraints:
 
-- Designed auditable decision workflows supporting 100+ concurrent records across multiple ownership domains, mirroring real organizational scale and review processes 
-- Validated architectures against real-world failure modes observed in production systems, ensuring long-term data integrity, safe rollbacks, and schema evolution
+- Designed and validated architectures supporting **10k+ requests/second**, with clear backpressure, rate limiting, and failure isolation strategies
+- Built **auditable decision and access workflows spanning 5 ownership domains**, ensuring traceability, accountability, and compliance across organizational boundaries
 
 ---
 
