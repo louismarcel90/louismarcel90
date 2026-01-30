@@ -46,7 +46,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <h4>🔓 Access the System (Code & Live Environment)</h4>
       📦 <strong><a href="https://github.com/louismarcel90/Gatekeeper">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
       <br /><br/>
-      <sub>Built to reflect access control, rate limiting, and auditability challenges commonly encountered in production API platforms operating at organizational scale.</sub>
+      <sub>Built to reflect access control, rate limiting, auditability challenges commonly encountered in production API platforms operating at organizational scale.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/images/opspilotai.jpeg" alt="opspilotAI.png" />
