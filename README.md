@@ -104,7 +104,7 @@ This profile is intentionally structured to reflect how I approach real-world sy
 
 Each project aims to highlight:
 - Thoughtful architectural trade-offs made under realistic organizational and technical constraints
-- Ownership that prioritizes long-term system durability over short-term feature velocityity
+- Ownership that prioritizes long-term system durability over short-term feature velocity
 
 ---
 
