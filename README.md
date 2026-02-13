@@ -1,22 +1,13 @@
 # Software Engineer | Architecture • TypeScript • Distributed Systems
 
-I design, build, and own **production-grade platforms** focused on **security, governance, and long-term system reliability**.
-
 🌍 Remote & international (US, UK, EU)
 
 ---
 
 
 ## Executive Summary
-
+I design, build, and own **production-grade platforms** focused on long-term system reliability that help organizations **make better decisions at scale**, by treating architecture, security, and governance as **first-class engineering problems**.
 These systems are inspired by real production failures and organizational bottlenecks observed in multi-team environments, and are designed to prevent their recurrence through durable architectural primitives.
-
-
----
-
-
-## TL;DR
-I build systems that help organizations **make better decisions at scale**, by treating architecture, security, and governance as **first-class engineering problems**.
 
 
 ---
