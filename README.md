@@ -1,7 +1,5 @@
 # Software Engineer | Architecture • TypeScript • Distributed Systems
 
-🌍 Remote & international (US, UK, EU)
-
 ---
 
 
