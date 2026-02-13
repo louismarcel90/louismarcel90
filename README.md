@@ -138,7 +138,7 @@ I operate at the intersection of **systems, people, and product** to deliver pla
 While these projects are independent initiatives, they are designed to mirror real-world scale and constraints:
 
 - Designed and validated architectures supporting **10k+ requests/second**, with clear backpressure, rate limiting, and failure isolation strategies, adopted by 1,000+ users across 15+ teams
-- Built **auditable decision and access workflows spanning 5 ownership domains**, ensuring traceability and compliance, while cutting delivery time by ~40% and reducing operational costs by ~25%
+- Built **auditable decision and access workflows spanning 5 ownership domains**, ensuring traceability and compliance, while **cutting delivery time by ~40% and reducing operational costs by ~25%**
 
 ---
 
@@ -160,7 +160,7 @@ Production failures caused not by bad code, but by **unclear ownership, forgotte
 I build systems that make those failures **hard to create and easy to detect**.
 
 - Architecture is a product decision: system boundaries and APIs directly shape scale, velocity, and long-term cost
-- Security, governance, and observability are designed-in primitives, optimized for long-term leverage and compounding impact
+- Security, governance, and observability are foundational pillars, optimized for long-term leverage and compounding impact
 
 
 ---
