@@ -1,4 +1,4 @@
-# Software Engineer | Architecture • TypeScript • Distributed Systems
+# Architecture • TypeScript • Distributed Systems
 
 ---
 
