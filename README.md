@@ -181,6 +181,7 @@ Each project aims to highlight:
 
 ## 📬 Contact
 
+[![LinkedIn](https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-marcel-bonga-763904184)
+[![Email](https://img.shields.io/badge/%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:didierbonga.a@gmail.com)
 
-- 💼 **LinkedIn :**  https://www.linkedin.com/in/louis-marcel-bonga-763904184
-- ✉️ **Email :** didierbonga.a@gmail.com
+
