@@ -1,7 +1,5 @@
 # Architecture • TypeScript • Distributed Systems
 
----
-
 
 ## Executive Summary
 I design, build, and own **production-grade platforms** focused on long-term system reliability that help organizations **make better decisions at scale**, by treating architecture, security, and governance as **first-class engineering problems**.
