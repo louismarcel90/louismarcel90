@@ -139,6 +139,7 @@ While these projects are independent initiatives, they are designed to mirror re
 
 - Designed and validated architectures supporting **10k+ requests/second**, with clear backpressure, rate limiting, and failure isolation strategies, adopted by 1,000+ users across 15+ teams
 - Built **auditable decision and access workflows spanning 5 ownership domains**, ensuring traceability and compliance, while **cutting delivery time by ~40% and reducing operational costs by ~25%**
+  
 
 ---
 
@@ -149,6 +150,7 @@ I operate at Senior / Staff level scope, focusing on :
 
 - Drive cross-team architectural alignment through clear system boundaries, long-lived API contracts, and explicit ownership models
 - Treat security, governance, and failure modes as first-class design concerns, multiplying impact via standards, reviews, and technical direction
+
 
 ---
 
@@ -175,6 +177,7 @@ This profile is intentionally structured to reflect how I approach real-world sy
 Each project aims to highlight:
 - Thoughtful architectural trade-offs made under realistic organizational and technical constraints
 - Ownership that prioritizes long-term system durability over short-term feature velocity
+
 
 ---
 
