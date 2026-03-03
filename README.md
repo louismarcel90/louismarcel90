@@ -86,7 +86,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <h4>🔓 Access the System (Code & Live Environment)</h4>
       📦 <strong><a href="https://github.com/louismarcel90/FlowDesk">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
       <br /><br/>
-      <sub>Inspired by repeated production incidents caused by undocumented decisions, unclear ownership, and irreversible architectural choices.</sub>
+      <sub>Inspired by repeated production incidents caused by undocumented decisions, unclear ownership, and irreversible architectural choices</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/images/gatekeeper.jpeg" alt="gatekeeper.png" />
@@ -97,7 +97,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <h4>🔓 Access the System (Code & Live Environment)</h4>
       📦 <strong><a href="https://github.com/louismarcel90/Gatekeeper">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
       <br /><br/>
-      <sub>Built to reflect access control, rate limiting, auditability challenges commonly encountered in production API platforms operating at organizational scale.</sub>
+      <sub>Built to reflect access control, rate limiting, auditability challenges commonly encountered in production API platforms operating at organizational scale</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/images/opspilotai.jpeg" alt="opspilotAI.png" />
@@ -108,7 +108,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <h4>🔓 Access the System (Code & Live Environment)</h4>
       📦 <strong><a href="https://github.com/louismarcel90/OpsPilot-AI">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
       <br /><br />
-      <sub>Designed to demonstrate how AI systems can be safely embedded into enterprise operations, informed by concerns observed in production SaaS environments.</sub>
+      <sub>Designed to demonstrate how AI systems can be safely embedded into enterprise operations, informed by concerns observed in production SaaS environments</sub>
     </td>
   </tr>
 </table>
@@ -127,6 +127,7 @@ I operate at the intersection of **systems, people, and product** to deliver pla
 **What teams get :**
 - 30–50% reduction in architectural drift, 40–60% fewer systemic production regressions, and 25–35% faster delivery of complex features through clear standards, ADRs, enforced design reviews, and stronger ownership boundaries
 - 2–3× improvement in decision traceability, up to 99.9%+ service reliability, and ~30% faster onboarding driven by documented trade-offs, consistent architecture patterns, and shared mental models that scale with both traffic and team count
+
 
 ---
 
