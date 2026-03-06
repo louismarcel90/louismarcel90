@@ -1,4 +1,4 @@
-# Platform Engineering • Secure Architecture • Distributed Systems
+# Platform Engineering • Distributed Systems • Secure Architecture
 
 
 ## Executive Summary
