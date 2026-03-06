@@ -1,4 +1,4 @@
-# Architecture • TypeScript • Distributed Systems
+# Platform Engineering • Secure Architecture • Distributed Systems
 
 
 ## Executive Summary
