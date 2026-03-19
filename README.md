@@ -75,7 +75,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
 
 ---
 
-<!-- <table>
+<table>
   <tr>
     <td align="center" width="33%">
       <img src="assets/images/flowdesk.jpeg" alt="flowdesk.png" />
@@ -111,37 +111,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <sub>Designed to demonstrate how AI systems can be safely embedded into enterprise operations, informed by concerns observed in production SaaS environments.</sub>
     </td>
   </tr>
-</table> -->
-<div style="display: flex; overflow-x: auto; gap: 20px; padding: 10px;">
-
-  <div style="min-width: 300px; text-align: center;">
-    <img src="assets/images/flowdesk.jpeg" width="100%" />
-    <h2>FlowDesk</h2>
-    <p><b>📌 Decision Intelligence & Governance Platform</b></p>
-    <i>FlowDesk is a full-stack decision governance platform...</i>
-    <br/><br/>
-    📦 <a href="https://github.com/louismarcel90/FlowDesk">Repository</a>
-  </div>
-
-  <div style="min-width: 300px; text-align: center;">
-    <img src="assets/images/gatekeeper.jpeg" width="100%" />
-    <h2>Gatekeeper</h2>
-    <p><b>📌 Zero-Trust API Gateway</b></p>
-    <i>Gatekeeper is a full-stack API security platform...</i>
-    <br/><br/>
-    📦 <a href="https://github.com/louismarcel90/Gatekeeper">Repository</a>
-  </div>
-
-  <div style="min-width: 300px; text-align: center;">
-    <img src="assets/images/opspilotai.jpeg" width="100%" />
-    <h2>OpsPilot AI</h2>
-    <p><b>📌 Enterprise AI SaaS</b></p>
-    <i>OpsPilot AI is a secure SaaS platform...</i>
-    <br/><br/>
-    📦 <a href="https://github.com/louismarcel90/OpsPilot-AI">Repository</a>
-  </div>
-
-</div>
+</table> 
 
 ---
 
