@@ -78,7 +78,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="assets/images/flowdesk.jpeg" alt="flowdesk.png" />
+      <img src="assets/images/flowdesk-rep.jpeg" alt="flowdesk.png" />
       <h1>FlowDesk</h1>
       <h3>📌Decision Intelligence & Governance Platform</h3>
       <i>FlowDesk is a full-stack decision governance platform that systematically captures, structures, audits, and evolves high-impact decisions, institutionalizing decision traceability across organizations.</i>
