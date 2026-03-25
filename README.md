@@ -179,12 +179,15 @@ Each project aims to highlight:
 
 ---
 
+## 📬 Contact
 
+ [![LinkedIn](https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-marcel-bonga-763904184)
+ [![Email](https://img.shields.io/badge/%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:didierbonga.a@gmail.com)
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0B1020,25:111827,50:1E3A8A,75:7C3AED,100:EC4899&section=footer&text=Thanks%20for%20visiting&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=72" width="100%" />
-</p>
+</p> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/System-ONLINE-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -193,33 +196,14 @@ Each project aims to highlight:
 </p>
 
 <p align="center">
-  <b>Complexity is easy. Clarity is engineering.</b>
-</p>
-
-<p align="center">
-  I design resilient systems, real-world platforms, and high-leverage engineering architecture.
-</p>
-
-<p align="center">
-  <a href="https://github.com/TON-USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-3B82F6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/TON-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:TON-EMAIL@EMAIL.COM">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  Complexity is easy. Clarity is engineering
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=AAB2C0&center=true&vCenter=true&width=900&lines=Building+systems+that+survive+failure.;Designing+for+clarity%2C+scale%2C+and+operational+reality.;APIs%2C+platforms%2C+governance%2C+observability%2C+resilience." alt="Typing SVG" />
-</p>
+</p> 
 
 
-## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-marcel-bonga-763904184)
-[![Email](https://img.shields.io/badge/%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:didierbonga.a@gmail.com)
 
 
