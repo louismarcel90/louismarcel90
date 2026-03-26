@@ -100,7 +100,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <sub>Built to reflect access control, rate limiting, auditability challenges commonly encountered in production API platforms operating at organizational scale.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/images/opspilotai.jpeg" alt="opspilotAI.png" />
+      <img src="assets/images/opspilotai.png" alt="opspilotAI.png" />
       <h1>OpsPilot AI</h1>
       <h3>📌Enterprise-Grade AI SaaS Platform</h3>
       <i>OpsPilot AI is a secure, audit-ready SaaS platform designed to demonstrate how AI can be safely embedded into enterprise operations, focusing on governance, scalability, and compliance.</i>
