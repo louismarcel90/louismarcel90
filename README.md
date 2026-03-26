@@ -78,7 +78,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="assets/images/flowdesk-rep.jpeg" alt="flowdesk.png" />
+      <img src="assets/images/flowdesk.jpeg" alt="flowdesk.png" />
       <h1>FlowDesk</h1>
       <h3>📌Decision Intelligence & Governance Platform</h3>
       <i>FlowDesk is a full-stack decision governance platform that systematically captures, structures, audits, and evolves high-impact decisions, institutionalizing decision traceability across organizations.</i>
@@ -89,7 +89,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <sub>Inspired by repeated production incidents caused by undocumented decisions, unclear ownership, and irreversible architectural choices.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/images/gatekeeper-rep.jpeg" alt="gatekeeper.png" />
+      <img src="assets/images/gatekeeper.jpeg" alt="gatekeeper.png" />
       <h1>Gatekeeper</h1>
       <h3>📌Zero-Trust API Gateway & Management Platform</h3>
       <i>Gatekeeper is a full-stack API security and governance platform built to address today’s most urgent enterprise needs: access control, rate limiting, auditability, analytics, and abuse prevention.</i>
@@ -100,7 +100,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <sub>Built to reflect access control, rate limiting, auditability challenges commonly encountered in production API platforms operating at organizational scale.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/images/opspilotai-rep.jpeg" alt="opspilotAI.png" />
+      <img src="assets/images/opspilotai.jpeg" alt="opspilotAI.png" />
       <h1>OpsPilot AI</h1>
       <h3>📌Enterprise-Grade AI SaaS Platform</h3>
       <i>OpsPilot AI is a secure, audit-ready SaaS platform designed to demonstrate how AI can be safely embedded into enterprise operations, focusing on governance, scalability, and compliance.</i>
