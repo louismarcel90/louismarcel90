@@ -196,7 +196,7 @@ Each project aims to highlight:
 </p>
 
 <p align="center">
-  Complexity is easy. Clarity is engineering
+  <b>Complexity is easy. Clarity is engineering</b>
 </p>
 
 <p align="center">
