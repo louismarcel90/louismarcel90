@@ -102,7 +102,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
     <td align="center" width="33%">
       <img src="assets/images/opspilotai.png" alt="OpsPilotAI-pic" />
       <h1>OpsPilot AI</h1>
-      <h3>📌Enterprise-Grade AI SaaS Platform</h3>
+      <h3>📌Assured Autonomous AI Systems Platform</h3>
       <i>OpsPilot AI is a secure, audit-ready SaaS platform designed to demonstrate how AI can be safely embedded into enterprise operations, focusing on governance, scalability, and compliance.</i>
       <br /><br />
       <h4>🔓 Access the System (Code & Live Environment)</h4>
@@ -117,7 +117,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
     <td align="center" width="33%">
       <img src="assets/images/aegis-flag.jpeg" alt="Aegis-pic" />
       <h1>Aegis</h1>
-      <h3>📌Identity Intelligence & Access Governance Platform</h3>
+      <h3>📌Identity Graph & Access Authorization Engine</h3>
       <i>Aegis is a full-stack identity intelligence platform that models, analyzes, and secures access across complex systems using graph-based reasoning, enabling organizations to understand, audit, and control who can access what — and why.</i>
       <br /><br />
       <h4>🔓 Access the System (Code & Live Environment)</h4>
@@ -128,7 +128,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
     <td align="center" width="33%">
       <img src="assets/images/helix-flag.jpeg" alt="Helix-pic" />
       <h1>Helix</h1>
-      <h3>📌Distributed Workflow Orchestration Engine</h3>
+      <h3>📌Deterministic Distributed Execution Engine</h3>
       <i>Helix is a deterministic workflow orchestration system designed to execute, monitor, and recover complex distributed processes with guaranteed consistency, enabling resilient systems that remain correct even under failure.</i>
       <br /><br />
       <h4>🔓 Access the System (Code & Live Environment)</h4>
@@ -139,7 +139,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
     <td align="center" width="33%">
       <img src="assets/images/zycron.jpeg" alt="Zycron-pic" />
       <h1>Zycron</h1>
-      <h3>📌Mission Decision Control System</h3>
+      <h3>📌Assued Mission Decision & Control System</h3>
       <i>Zycron is a mission-grade decision intelligence platform that aggregates real-time signals, evaluates system states, and orchestrates human-in-the-loop decisions for high-stakes environments requiring precision, traceability, and trust.</i>
       <br /><br />
       <h4>🔓 Access the System (Code & Live Environment)</h4>
