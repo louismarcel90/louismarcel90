@@ -126,7 +126,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <sub>Designed to demonstrate how AI systems can be safely embedded into enterprise operations, informed by concerns observed in production SaaS environments.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/images/helix2.jpeg" alt="Helix-pic" />
+      <img src="assets/images/heli.jpeg" alt="Helix-pic" />
       <h1>Helix</h1>
       <h3>📌Distributed Workflow Orchestration Engine</h3>
       <i>Helix is a deterministic workflow orchestration system designed to execute, monitor, and recover complex distributed processes with guaranteed consistency, enabling resilient systems that remain correct even under failure.</i>
