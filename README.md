@@ -139,7 +139,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
     <td align="center" width="33%">
       <img src="assets/images/zycron.jpeg" alt="Zycron-pic" />
       <h1>Zycron</h1>
-      <h3>📌Assued Mission Decision & Control System</h3>
+      <h3>📌Assured Mission Decision & Control System</h3>
       <i>Zycron is a mission-grade decision intelligence platform that aggregates real-time signals, evaluates system states, and orchestrates human-in-the-loop decisions for high-stakes environments requiring precision, traceability, and trust.</i>
       <br /><br />
       <h4>🔓 Access the System (Code & Live Environment)</h4>
