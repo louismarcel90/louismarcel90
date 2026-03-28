@@ -115,7 +115,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
  
   <tr>
     <td align="center" width="33%">
-      <img src="assets/images/zycron.jpeg" alt="Aegis-pic" />
+      <img src="assets/images/aegis-flag.jpeg" alt="Aegis-pic" />
       <h1>Aegis</h1>
       <h3>📌Identity Intelligence & Access Governance Platform</h3>
       <i>Aegis is a full-stack identity intelligence platform that models, analyzes, and secures access across complex systems using graph-based reasoning, enabling organizations to understand, audit, and control who can access what — and why.</i>
@@ -126,7 +126,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <sub>Designed to demonstrate how AI systems can be safely embedded into enterprise operations, informed by concerns observed in production SaaS environments.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/images/zycron.jpeg" alt="Helix-pic" />
+      <img src="assets/images/helix-flag.jpeg" alt="Helix-pic" />
       <h1>Helix</h1>
       <h3>📌Distributed Workflow Orchestration Engine</h3>
       <i>Helix is a deterministic workflow orchestration system designed to execute, monitor, and recover complex distributed processes with guaranteed consistency, enabling resilient systems that remain correct even under failure.</i>
