@@ -121,7 +121,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <h4>🔓 Access the System (Code & Live Environment)</h4>
       📦 <strong><a href="https://github.com/louismarcel90/Aegis.git">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
       <br /><br />
-      <sub>Designed to demonstrate how AI systems can be safely embedded into enterprise operations, informed by concerns observed in production SaaS environments.</sub>
+      <sub>Inspired by critical security failures caused by invisible permissions, privilege escalation paths, and lack of explainability in access control systems.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/images/helix-flag.jpeg" alt="Helix-pic" />
