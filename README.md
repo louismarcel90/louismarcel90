@@ -113,7 +113,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="assets/images/aegis-flag.jpeg" alt="Aegis-pic" />
+      <img src="assets/images/aegis-four.jpeg" alt="Aegis-pic" />
       <h1>Aegis</h1>
       <h3>📌Identity Graph & Access Authorization Engine</h3>
       <i>Aegis is a full-stack identity intelligence platform that models, analyzes, and secures access across complex systems using graph-based reasoning, enabling organizations to understand, audit, and control who can access what — and why.</i>
