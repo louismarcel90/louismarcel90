@@ -111,8 +111,6 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <sub>Designed to demonstrate how AI systems can be safely embedded into enterprise operations, informed by concerns observed in production SaaS environments.</sub>
     </td>
   </tr>
-
- 
   <tr>
     <td align="center" width="33%">
       <img src="assets/images/aegis-flag.jpeg" alt="Aegis-pic" />
