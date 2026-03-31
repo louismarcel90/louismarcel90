@@ -91,7 +91,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
     <td align="center" width="33%">
       <img src="assets/images/gatekeeper-flag.jpeg" alt="Gatekeeper-pic" />
       <h1>Gatekeeper</h1>
-      <h3>📌Zero-Trust API Gateway & Management Platform</h3>
+      <h3>📌Zero-Trust API Gateway & Policy Enforcement Platform</h3>
       <i>Gatekeeper is a full-stack API security and governance platform built to address today’s most urgent enterprise needs: access control, rate limiting, auditability, analytics, and abuse prevention.</i>
       <br /><br/>
       <h4>🔓 Access the System (Code & Live Environment)</h4>
