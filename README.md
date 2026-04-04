@@ -127,7 +127,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <img src="assets/images/helix-flag.jpeg" alt="Helix-pic" />
       <h1>Helix</h1>
       <h3>📌Deterministic Execution Engine for Assured Distributed Systems</h3>
-      <i>Helix is a high-assurance workflow orchestration platform for critical distributed operations, built on deterministic state progression, replayable execution, bounded failure handling, policy-controlled human authorization, and verifiable evidence trails.</i>
+      <i>Helix is a high-assurance workflow orchestration platform for critical distributed operations, built on deterministic execution, replayability, bounded failure handling, policy-controlled human authorization, and verifiable evidence.</i>
       <br /><br />
       <h4>🔓 Access the System (Code & Live Environment)</h4>
       📦 <strong><a href="https://github.com/louismarcel90/Helix.git">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
