@@ -116,7 +116,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <img src="assets/images/aegis-four.jpeg" alt="Aegis-pic" />
       <h1>Aegis</h1>
       <h3>📌Identity Graph & Access Authorization Engine</h3>
-      <i>Aegis is a full-stack identity intelligence platform that models, analyzes, and secures access across complex systems using graph-based reasoning, enabling organizations to understand, audit, and control who can access what — and why.</i>
+      <i>Aegis is an assured identity and access reasoning system that models authorization as a time-aware, evidence-backed graph, computes effective permissions and escalation paths, and delivers verifiable analyses with mission-grade discipline.</i>
       <br /><br />
       <h4>🔓 Access the System (Code & Live Environment)</h4>
       📦 <strong><a href="https://github.com/louismarcel90/Aegis.git">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
@@ -126,8 +126,8 @@ Each project mirrors real-world scale, failure modes, and governance constraints
     <td align="center" width="33%">
       <img src="assets/images/helix-flag.jpeg" alt="Helix-pic" />
       <h1>Helix</h1>
-      <h3>📌Deterministic Distributed Execution Engine</h3>
-      <i>Helix is a deterministic workflow orchestration system designed to execute, monitor, and recover complex distributed processes with guaranteed consistency, enabling resilient systems that remain correct even under failure.</i>
+      <h3>📌Deterministic Execution Engine for Assured Distributed Systems</h3>
+      <i>Helix is a high-assurance workflow orchestration platform for critical distributed operations, built on deterministic state progression, replayable execution, bounded failure handling, policy-controlled human authorization, and verifiable evidence trails.</i>
       <br /><br />
       <h4>🔓 Access the System (Code & Live Environment)</h4>
       📦 <strong><a href="https://github.com/louismarcel90/Helix.git">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
@@ -138,7 +138,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <img src="assets/images/zycron-x.jpeg" alt="Zycron-pic" />
       <h1>Zycron</h1>
       <h3>📌Assured Mission Decision & Control System</h3>
-      <i>Zycron is a mission-grade decision intelligence platform that aggregates real-time signals, evaluates system states, and orchestrates human-in-the-loop decisions for high-stakes environments requiring precision, traceability, and trust.</i>
+      <i>Zycron is an assured mission decision and control system that transforms real-time operational signals into trusted mission state, enforces risk and policy constraints, and orchestrates governed human execution with verifiable traceability, and evidence.</i>
       <br /><br />
       <h4>🔓 Access the System (Code & Live Environment)</h4>
       📦 <strong><a href="https://github.com/louismarcel90/Zycron.git">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
