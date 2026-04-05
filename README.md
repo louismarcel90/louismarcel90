@@ -216,15 +216,20 @@ Each project aims to highlight:
 
 ## 📬 Contact
 
- [![LinkedIn](https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-marcel-bonga-763904184)
- [![Email](https://img.shields.io/badge/%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:didierbonga.a@gmail.com)
+  <p>
+  <a href="https://linkedin.com/in/louis-marcel-bonga-763904184">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+  <a href="mailto:didierbonga.a@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-24292F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=24292F" />
+  </a>
+</p>
+
+
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0B1020,25:111827,50:1E3A8A,75:7C3AED,100:EC4899&section=footer&text=Thanks%20for%20visiting&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=72" width="100%" />
-</p> 
-
-<p align="center">
   <img src="https://img.shields.io/badge/System-ONLINE-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-2563EB?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Level-Staff%2FPrincipal-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white" />
