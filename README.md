@@ -149,7 +149,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
     <td align="center" width="33%" valign="top">
       <img src="assets/images/work-in-progress.jpg" alt="AetherCore-pic" style="height:200px; object-fit:cover;"/>
       <h1>Aether Core</h1>
-      <h3>📌Assured Autonomous Fleet Orchestration & Control System</h3>
+      <h3>📌Assured Autonomous Fleet Orchestration & Mission Control System</h3>
       <i>Aether Core guarantees safe, deterministic coordination of autonomous fleets, ensuring every mission remains controlled, replayable, and resilient under real-world failures.</i>
       <br /><br />
       <h4>🔓 Access the System (Code & Live Environment)</h4>
