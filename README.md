@@ -177,7 +177,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <h4>🔓 Access the System (Code & Live Environment)</h4>
       📦 <strong><a href="https://github.com/louismarcel90/ManifacturingFlow.git">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
       <br /><br />
-      <sub>Inspired by industrial incidents where lack of traceability, unreliable telemetry, and absence of replay capabilities led to costly downtime and unsafe operations.</sub>
+      <sub>Inspired by industrial incidents where lack of reliable telemetry, and absence of replay capabilities led to costly downtime and unsafe operations.</sub>
     </td>
   </tr>
 </table> 
