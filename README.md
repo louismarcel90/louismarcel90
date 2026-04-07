@@ -142,7 +142,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <h4>🔓 Access the System (Code & Live Environment)</h4>
       📦 <strong><a href="https://github.com/louismarcel90/Veritas-Forge.git">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
       <br /><br />
-      <sub>Inspired by failures caused by irreproducible experiments, unverifiable ML pipelines, and the inability to trust or reconstruct critical computational results.</sub>
+      <sub>Inspired by failures caused by irreproducible experiments, unverifiable ML pipelines, and the inability to reconstruct computational results.</sub>
     </td>
   </tr>
    <tr>
