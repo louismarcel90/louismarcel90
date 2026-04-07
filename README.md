@@ -171,7 +171,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
     <td align="center" width="33%" valign="top">
       <img src="assets/images/work-in-progress.jpg" alt="ManifacturingFlow-pic" style="height:200px; object-fit:cover;"/>
       <h1>ManifacturingFlow</h1>
-      <h3>📌Assured Industrial Operations Control & Reliability System</h3>
+      <h3>📌Assured Industrial Operations & Reliability System</h3>
       <i>ManufacturingFlow is a high-assurance industrial operations system that guarantees deterministic operations by capturing every event as a verifiable record.</i>
       <br /><br />
       <h4>🔓 Access the System (Code & Live Environment)</h4>
