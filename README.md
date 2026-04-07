@@ -76,17 +76,6 @@ Each project mirrors real-world scale, failure modes, and governance constraints
 ---
 <table>
   <tr>
-     <td align="center" width="33%" valign="top">
-      <img src="assets/images/flowdesk.jpeg" alt="VeritasForge-pic" style="height:200px; object-fit:cover;" />
-      <h1>Veritas Forge</h1>
-      <h3>📌Mission-Grade Computational Provenance & System</h3>
-      <i>Veritas Forge guarantees every execution is cryptographically verifiable and fully traceable across data and environments, transforming computation into trust-scored evidence under all conditions.</i>
-      <br /><br />
-      <h4>🔓 Access the System (Code & Live Environment)</h4>
-      📦 <strong><a href="https://github.com/louismarcel90/Veritas-Forge.git">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
-      <br /><br />
-      <sub>Inspired by failures caused by irreproducible experiments, unverifiable ML pipelines, and the inability to trust or reconstruct critical computational results.</sub>
-    </td>
     <td align="center" width="33%" valign="top">
       <img src="assets/images/gatekeeper-flag.jpeg" alt="Gatekeeper-pic" style="height:200px; object-fit:cover;" />
       <h1>Gatekeeper</h1>
@@ -109,19 +98,19 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <br /><br />
       <sub>Designed to demonstrate how AI systems can be safely embedded into enterprise operations, informed by concerns observed in production SaaS environments.</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%" valign="top">
+     <td align="center" width="33%" valign="top">
       <img src="assets/images/zycron-x.jpeg" alt="Zycron-pic" style="height:200px; object-fit:cover;"/>
       <h1>Zycron</h1>
       <h3>📌Assured Mission Decision & Control System</h3>
-      <i>Zycron is an assured mission decision and control system that transforms real-time operational signals into trusted mission state, enforces risk and policy constraints, and orchestrates governed human execution with verifiable traceability, and evidence.</i>
+      <i>Zycron is an assured mission decision that transforms real-time operational signals into trusted mission state, enforces policy constraints, and orchestrates governed human execution with verifiable evidence.</i>
       <br /><br />
       <h4>🔓 Access the System (Code & Live Environment)</h4>
       📦 <strong><a href="https://github.com/louismarcel90/Zycron.git">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
       <br /><br />
       <sub>Inspired by mission-critical failures where delayed insights, unclear decision chains, and lack of system-wide visibility led to catastrophic outcomes.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <img src="assets/images/aegis-four.jpeg" alt="Aegis-pic" style="height:200px; object-fit:cover;"/>
       <h1>Aegis</h1>
@@ -143,6 +132,17 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       📦 <strong><a href="https://github.com/louismarcel90/Helix.git">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
       <br /><br />
       <sub>Inspired by production failures caused by non-deterministic workflows, lost states, retries gone wrong, and systems that break under partial failure.</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="assets/images/work-in-progress.jpg" alt="VeritasForge-pic" style="height:200px; object-fit:cover;" />
+      <h1>Veritas Forge</h1>
+      <h3>📌Mission-Grade Computational Provenance & System</h3>
+      <i>Veritas Forge is an assured computational system that guarantees every execution is cryptographically verifiable, and fully traceable across data and environments, transforming computation into trust-scored evidence under all operational conditions.</i>
+      <br /><br />
+      <h4>🔓 Access the System (Code & Live Environment)</h4>
+      📦 <strong><a href="https://github.com/louismarcel90/Veritas-Forge.git">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
+      <br /><br />
+      <sub>Inspired by failures caused by irreproducible experiments, unverifiable ML pipelines, and the inability to trust or reconstruct critical computational results.</sub>
     </td>
   </tr>
    <tr>
