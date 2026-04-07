@@ -134,7 +134,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <sub>Inspired by production failures caused by non-deterministic workflows, lost states, retries gone wrong, and systems that break under partial failure.</sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="assets/images/work-in-progress.jpg" alt="VeritasForge-pic" style="height:200px; object-fit:cover;" />
+      <img src="assets/images/veritas-forge.jpeg" alt="VeritasForge-pic" style="height:200px; object-fit:cover;" />
       <h1>Veritas Forge</h1>
       <h3>📌Mission-Grade Computational Provenance</h3>
       <i>Veritas Forge is an assured computational system that guarantees every execution is cryptographically verifiable, and fully traceable across data and environments, transforming computation into trust-scored evidence under all operational conditions.</i>
@@ -147,7 +147,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
   </tr>
    <tr>
     <td align="center" width="33%" valign="top">
-      <img src="assets/images/work-in-progress.jpg" alt="AetherCore-pic" style="height:200px; object-fit:cover;"/>
+      <img src="assets/images/aether-core.jpeg" alt="AetherCore-pic" style="height:200px; object-fit:cover;"/>
       <h1>Aether Core</h1>
       <h3>📌Assured Autonomous Fleet Orchestration & Control System</h3>
       <i>Aether Core guarantees safe, deterministic coordination of autonomous fleets, ensuring every mission remains controlled, replayable, and resilient under real-world failures.</i>
@@ -158,7 +158,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <sub>Inspired by critical incidents in autonomous systems where lack of coordination, visibility, and safety guarantees led to unpredictable and unsafe outcomes.</sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="assets/images/work-in-progress.jpg" alt="TradeLensAnalytics-pic" style="height:200px; object-fit:cover;"/>
+      <img src="assets/images/tradelens-analytics.jpeg" alt="TradeLensAnalytics-pic" style="height:200px; object-fit:cover;"/>
       <h1>TradeLens Analytics</h1>
       <h3>📌Assured Logistics Intelligence & Decision System</h3>
       <i>TradeLens Analytics guarantees explainable, traceable, and uncertainty-aware logistics decisions by grounding every projection in verifiable shipment reality.</i>
@@ -169,7 +169,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <sub>Inspired by large-scale logistics failures driven by opaque predictions, fragmented data, and the inability to explain or trust operational decisions.</sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="assets/images/work-in-progress.jpg" alt="ManifacturingFlow-pic" style="height:200px; object-fit:cover;"/>
+      <img src="assets/images/manifacturingflow.jpeg" alt="ManifacturingFlow-pic" style="height:200px; object-fit:cover;"/>
       <h1>ManifacturingFlow</h1>
       <h3>📌Assured Industrial Operations & Reliability System</h3>
       <i>ManufacturingFlow is a high-assurance industrial operations system that guarantees deterministic operations by capturing every event as a verifiable record.</i>
