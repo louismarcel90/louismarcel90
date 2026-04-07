@@ -172,7 +172,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <img src="assets/images/work-in-progress.jpg" alt="ManifacturingFlow-pic" style="height:200px; object-fit:cover;"/>
       <h1>ManifacturingFlow</h1>
       <h3>📌Assured Industrial Operations Control & Reliability System</h3>
-      <i>ManufacturingFlow guarantees deterministic, traceable, and replayable industrial operations by capturing every event as a verifiable system of record.</i>
+      <i>ManufacturingFlow is a high-assurance industrial operations system that guarantees deterministic operations by capturing every event as a verifiable record.</i>
       <br /><br />
       <h4>🔓 Access the System (Code & Live Environment)</h4>
       📦 <strong><a href="https://github.com/louismarcel90/ManifacturingFlow.git">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
