@@ -164,7 +164,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <i>TradeLens Analytics guarantees explainable, traceable, and uncertainty-aware logistics decisions by grounding every projection in verifiable shipment reality.</i>
       <br /><br />
       <h4>🔓 Access the System (Code & Live Environment)</h4>
-      📦 <strong><a href="https://github.com/louismarcel90/TradeLens-Analytics.gitt">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
+      📦 <strong><a href="https://github.com/louismarcel90/TradeLens-Analytics.git">Repository</a> | ▶️ <a href="REPO_LINK_1">Live Demo</a></strong>
       <br /><br />
       <sub>Inspired by large-scale logistics failures driven by opaque predictions, fragmented data, and the inability to explain or trust operational decisions.</sub>
     </td>
