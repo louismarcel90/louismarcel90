@@ -125,7 +125,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
     <td align="center" width="33%" valign="top">
       <img src="assets/images/helix-flag.jpeg" alt="Helix-pic" style="height:200px; object-fit:cover;"/>
       <h1>Helix</h1>
-      <h3>📌Deterministic Execution Engine for Assured Systems</h3>
+      <h3>📌Assured Durable Orchestration & Execution Platform</h3>
       <i>Helix is a high-assurance workflow orchestration platform for critical distributed operations, built on deterministic execution, replayability, bounded failure handling, policy-controlled human authorization, and verifiable evidence.</i>
       <br /><br />
       <h4>🔓 Access the System (Code & Live Environment)</h4>
