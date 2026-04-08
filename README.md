@@ -134,7 +134,7 @@ Each project mirrors real-world scale, failure modes, and governance constraints
       <sub>Inspired by production failures caused by non-deterministic workflows, lost states, retries gone wrong, and systems that break under partial failure.</sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="assets/images/veritas-forge.jpeg" alt="VeritasForge-pic" style="height:200px; object-fit:cover;" />
+      <img src="assets/images/veritas-forge2.jpeg" alt="VeritasForge-pic" style="height:200px; object-fit:cover;" />
       <h1>Veritas Forge</h1>
       <h3>📌Mission-Grade Computational Provenance</h3>
       <i>Veritas Forge is an assured computational system that guarantees every execution is cryptographically verifiable, and fully traceable across data and environments, transforming computation into trust-scored evidence under all operational conditions.</i>
