@@ -1,4 +1,4 @@
-# Senior Full Stack Software Engineer • Distributed Systems • Secure Architecture
+# Software Engineering • Distributed Systems • Secure Architecture
 
 
 ## Executive Summary
